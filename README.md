@@ -35,6 +35,7 @@ A curated list of awesome libraries, tutorials, papers, and other resources rela
 
 - [KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
 - [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials)
+- [imodelsX examples with KAN](https://github.com/csinva/imodelsX/blob/master/demo_notebooks/kan.ipynb) : Scikit-learn wrapper for tabular data for KAN (Kolmogorov Arnold Network)
 
 
 ## Contributing
