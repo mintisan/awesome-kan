@@ -33,6 +33,7 @@ A curated list of awesome libraries, tutorials, papers, and other resources rela
 ## Tutorial
 
 - [KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
+- [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials)
 
 
 ## Contributing
