@@ -41,7 +41,7 @@ We welcome your contributions! Please follow these steps to contribute:
 3. Commit your changes to the new branch.
 4. Create a Pull Request, and provide a brief description of the changes/additions.
 
-Please make sure that the resources you add are relevant to the field of Heart Rate Variability. Before contributing, take a look at the existing resources to avoid duplicates.
+Please make sure that the resources you add are relevant to the field of Kolmogorov-Arnold Network. Before contributing, take a look at the existing resources to avoid duplicates.
 
 ## License
 
