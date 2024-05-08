@@ -38,6 +38,10 @@ A curated list of awesome libraries, tutorials, papers, and other resources rela
 - [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials)
 - [imodelsX examples with KAN](https://github.com/csinva/imodelsX/blob/master/demo_notebooks/kan.ipynb) : Scikit-learn wrapper for tabular data for KAN (Kolmogorov Arnold Network)
 
+### YouTube
+
+- [KAN: Kolmogorov-Arnold Networks](https://www.youtube.com/watch?v=CkCijaXqAOM)
+- [超越谷歌DeepMind的最新大作：KAN全网最详细解读！](https://www.youtube.com/watch?v=OEvJE-O1R2k)
 
 ## Contributing
 
