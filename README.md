@@ -35,6 +35,7 @@ A curated list of awesome libraries, tutorials, papers, and other resources rela
 - [Simple-KAN-4-Time-Series](https://github.com/MSD-IRIMAS/Simple-KAN-4-Time-Series) : A simple feature-based time series classifier using Kolmogorov–Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/MSD-IRIMAS/Simple-KAN-4-Time-Series.svg)
 - [ChebyKAN](https://github.com/SynodicMonth/ChebyKAN) : Kolmogorov-Arnold Networks (KAN) using Chebyshev polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SynodicMonth/ChebyKAN.svg)
 - [kan-polar](https://github.com/mpoluektov/kan-polar) : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
+- [Deep-KAN](https://github.com/sidhu2690/Deep-KAN) : This repository contains a better implementation of Kolmogorov-Arnold networks ｜ ![Github stars](https://img.shields.io/github/stars/sidhu2690/Deep-KAN.svg)
 
 
 ## Tutorial
