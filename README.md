@@ -9,9 +9,7 @@ A curated list of awesome libraries, tutorials, papers, and other resources rela
 
 - [Papers](#papers)
 - [Library](#library)
-- [Datasets](#datasets)
 - [Tutorial](#tutorial)
-- [Datasets](#datasets)
 - [Contributing](#contributing)
 
 
