@@ -46,6 +46,7 @@ A curated list of awesome libraries, tutorials, papers, and other resources rela
 
 - [KAN: Kolmogorov-Arnold Networks](https://www.youtube.com/watch?v=CkCijaXqAOM)
 - [超越谷歌DeepMind的最新大作：KAN全网最详细解读！](https://www.youtube.com/watch?v=OEvJE-O1R2k)
+- [Randomness and Kolmogorov Complexity](https://www.youtube.com/watch?app=desktop&v=0cHHKDAelCo&noapp=1)
 
 ## Contributing
 
