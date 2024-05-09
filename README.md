@@ -3,7 +3,7 @@
 
 ![Awesome](https://awesome.re/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
 
-A curated list of awesome libraries, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
+A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
 ![image](https://github.com/mintisan/awesome-kan/assets/9136049/fba990e7-78ac-4b3f-88ca-974810e04f98)
 
