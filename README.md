@@ -24,6 +24,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ### Previous reserch
 
 - 1989 - [Representation Properties of Networks:Kolmogorov's Theorem Is Irrelevant](http://cbcl.mit.edu/people/poggio/journals/girosi-poggio-NeuralComputation-1989.pdf)
+- 2021-[Algorithmic Randomness and Kolmogorov Complexity for Qubits](https://arxiv.org/abs/2106.14280)
 
 ## Library
 
