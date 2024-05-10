@@ -49,6 +49,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Tutorial
 
 - [KAN Author's twitter introduction](https://twitter.com/ZimingLiu11/status/1785483967719981538)
+- [team-daniel/KAN](https://github.com/team-daniel/KAN) : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
 - [KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
 - [[D] Kolmogorov-Arnold Network is just an MLP](https://www.reddit.com/r/MachineLearning/comments/1clcu5i/d_kolmogorovarnold_network_is_just_an_mlp/)
 - [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials)
