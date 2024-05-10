@@ -5,8 +5,6 @@
 
 A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
-![image](https://github.com/mintisan/awesome-kan/assets/9136049/fba990e7-78ac-4b3f-88ca-974810e04f98)
-
 
 ## Table of Contents
 
@@ -59,7 +57,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### YouTube
 
-- [KAN: Kolmogorov-Arnold Networks](https://www.youtube.com/watch?v=CkCijaXqAOM)
+- [KAN: Kolmogorov-Arnold Networks Explained](https://www.youtube.com/watch?v=CkCijaXqAOM)
+- [Didn't Graduate Guide to: Kolmogorov-Arnold Networks](https://www.youtube.com/watch?app=desktop&v=3XAW0kqbH2Q&feature=youtu.be&ab_channel=DeepFriedPancake)
 - [超越谷歌DeepMind的最新大作：KAN全网最详细解读！](https://www.youtube.com/watch?v=OEvJE-O1R2k)
 - [Randomness and Kolmogorov Complexity](https://www.youtube.com/watch?app=desktop&v=0cHHKDAelCo&noapp=1)
 - [Unboxing Functions: The Power of Addition and the Kolmogorov-Arnold Theorem #shorts](https://www.youtube.com/shorts/Yu1zsGhanh8)
