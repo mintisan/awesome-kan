@@ -13,6 +13,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Papers](#papers)
 - [Library](#library)
 - [Project](#project)
+- [Discussion](#discussion)
 - [Tutorial](#tutorial)
 - [Contributing](#contributing)
 
@@ -51,13 +52,16 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [kanrl](https://github.com/riiswa/kanrl) : Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments ｜ ![Github stars](https://img.shields.io/github/stars/riiswa/kanrl.svg)
 
 
+## Discussion
+
+- [KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
+- [Can Kolmogorov–Arnold Networks (KAN) beat MLPs?](https://pub.towardsai.net/can-kolmogorov-arnold-networks-kan-beat-mlps-060fc34da9ce)
+- [[D] Kolmogorov-Arnold Network is just an MLP](https://www.reddit.com/r/MachineLearning/comments/1clcu5i/d_kolmogorovarnold_network_is_just_an_mlp/)
 
 ## Tutorial
 
 - [KAN Author's twitter introduction](https://twitter.com/ZimingLiu11/status/1785483967719981538)
 - [team-daniel/KAN](https://github.com/team-daniel/KAN) : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
-- [KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
-- [[D] Kolmogorov-Arnold Network is just an MLP](https://www.reddit.com/r/MachineLearning/comments/1clcu5i/d_kolmogorovarnold_network_is_just_an_mlp/)
 - [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials)
 - [imodelsX examples with KAN](https://github.com/csinva/imodelsX/blob/master/demo_notebooks/kan.ipynb) : Scikit-learn wrapper for tabular data for KAN (Kolmogorov Arnold Network)
 - [What is the new Neural Network Architecture?(KAN) Kolmogorov-Arnold Networks Explained](https://medium.com/@zahmed333/what-is-the-new-neural-network-architecture-kan-kolmogorov-arnold-networks-explained-d2787b013ade)
