@@ -5,7 +5,7 @@
 
 A curated list of awesome libraries, projects, tutorials, papers, and other resources related to Kolmogorov-Arnold Network (KAN). This repository aims to be a comprehensive and organized collection that will help researchers and developers in the world of KAN!
 
-![image](https://github.com/mintisan/awesome-kan/assets/9136049/fba990e7-78ac-4b3f-88ca-974810e04f98)
+![image](https://github.com/mintisan/awesome-kan/assets/9136049/5ce213da-5fe5-49bf-a210-01144a70c14e)
 
 
 ## Table of Contents
@@ -24,6 +24,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ### Previous reserch
 
 - 1989 - [Representation Properties of Networks:Kolmogorov's Theorem Is Irrelevant](http://cbcl.mit.edu/people/poggio/journals/girosi-poggio-NeuralComputation-1989.pdf)
+- 2021 - [Algorithmic Randomness and Kolmogorov Complexity for Qubits](https://arxiv.org/abs/2106.14280)
 
 ## Library
 
@@ -35,9 +36,12 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Large Kolmogorov-Arnold Networks](https://github.com/Indoxer/LKAN) : Variations of Kolmogorov-Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/Indoxer/LKAN.svg)
 - [xKAN](https://github.com/mlsquare/xKAN) : Kolmogorov-Arnold Networks with various basis functions like B-Splines, Fourier, Chebyshev, Wavelets etc ｜ ![Github stars](https://img.shields.io/github/stars/mlsquare/xKAN.svg)
 - [ChebyKAN](https://github.com/SynodicMonth/ChebyKAN) : Kolmogorov-Arnold Networks (KAN) using Chebyshev polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SynodicMonth/ChebyKAN.svg)
+- [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
 - [kan-polar](https://github.com/mpoluektov/kan-polar) : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
 - [Deep-KAN](https://github.com/sidhu2690/Deep-KAN) : This repository contains a better implementation of Kolmogorov-Arnold networks ｜ ![Github stars](https://img.shields.io/github/stars/sidhu2690/Deep-KAN.svg)
-- [convkan](https://github.com/StarostinV/convkan) : This repository contains an implementation of a convolutional layer based on Kolmogorov-Arnold network ｜ ![Github stars](https://img.shields.io/github/stars/StarostinV/convkan.svg)
+- [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) : Implementation of Graph Neural Network version of Kolmogorov Arnold Networks (GraphKAN) ｜ ![Github stars](https://img.shields.io/github/stars/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks.svg)
+- [RBF-KAN](https://github.com/sidhu2690/RBF-KAN) : This code implements a Radial Basis Function (RBF) based Kolmogorov-Arnold Network (KAN) for function approximation. ｜ ![Github stars](https://img.shields.io/github/stars/sidhu2690/RBF-KAN.svg)
+- [convkan](https://github.com/StarostinV/convkan) : Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜ ![Github stars](https://img.shields.io/github/stars/StarostinV/convkan.svg)
 
 ## Project
 
@@ -51,16 +55,20 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Tutorial
 
 - [KAN Author's twitter introduction](https://twitter.com/ZimingLiu11/status/1785483967719981538)
+- [team-daniel/KAN](https://github.com/team-daniel/KAN) : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
 - [KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
 - [[D] Kolmogorov-Arnold Network is just an MLP](https://www.reddit.com/r/MachineLearning/comments/1clcu5i/d_kolmogorovarnold_network_is_just_an_mlp/)
 - [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials)
 - [imodelsX examples with KAN](https://github.com/csinva/imodelsX/blob/master/demo_notebooks/kan.ipynb) : Scikit-learn wrapper for tabular data for KAN (Kolmogorov Arnold Network)
 - [What is the new Neural Network Architecture?(KAN) Kolmogorov-Arnold Networks Explained](https://medium.com/@zahmed333/what-is-the-new-neural-network-architecture-kan-kolmogorov-arnold-networks-explained-d2787b013ade)
+- [KAN: Kolmogorov–Arnold Networks — A Short Summary](https://kargarisaac.medium.com/kan-kolmogorov-arnold-networks-a-short-summary-a1aef1336990)
 - [What is the significance of the Kolmogorov axioms for Mathematical Probability?](https://www.cantorsparadise.com/what-is-the-significance-of-the-kolmogorov-axioms-for-mathematical-probability-ba4eb5551e7e)
+- [Andrey Kolmogorov — one of the greatest mathematicians of the XXth century](https://valeman.medium.com/andrey-kolmogorov-one-of-the-greatest-mathematicians-of-the-xxst-century-4167ad02d10)
 
 ### YouTube
 
-- [KAN: Kolmogorov-Arnold Networks](https://www.youtube.com/watch?v=CkCijaXqAOM)
+- [KAN: Kolmogorov-Arnold Networks Explained](https://www.youtube.com/watch?v=CkCijaXqAOM)
+- [Didn't Graduate Guide to: Kolmogorov-Arnold Networks](https://www.youtube.com/watch?app=desktop&v=3XAW0kqbH2Q&feature=youtu.be&ab_channel=DeepFriedPancake)
 - [超越谷歌DeepMind的最新大作：KAN全网最详细解读！](https://www.youtube.com/watch?v=OEvJE-O1R2k)
 - [Randomness and Kolmogorov Complexity](https://www.youtube.com/watch?app=desktop&v=0cHHKDAelCo&noapp=1)
 - [Unboxing Functions: The Power of Addition and the Kolmogorov-Arnold Theorem #shorts](https://www.youtube.com/shorts/Yu1zsGhanh8)
