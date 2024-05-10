@@ -41,6 +41,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Deep-KAN](https://github.com/sidhu2690/Deep-KAN) : This repository contains a better implementation of Kolmogorov-Arnold networks ｜ ![Github stars](https://img.shields.io/github/stars/sidhu2690/Deep-KAN.svg)
 - [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) : Implementation of Graph Neural Network version of Kolmogorov Arnold Networks (GraphKAN) ｜ ![Github stars](https://img.shields.io/github/stars/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks.svg)
 - [RBF-KAN](https://github.com/sidhu2690/RBF-KAN) : This code implements a Radial Basis Function (RBF) based Kolmogorov-Arnold Network (KAN) for function approximation. ｜ ![Github stars](https://img.shields.io/github/stars/sidhu2690/RBF-KAN.svg)
+- [LKAN](https://github.com/Indoxer/LKAN/) : CUDA-supported implementation of KAN-based convolutional layers ｜ ![Github stars](https://img.shields.io/github/stars/Indoxer/LKAN.svg)
 
 
 ## Project
@@ -49,7 +50,6 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN-GPT-2](https://github.com/CG80499/KAN-GPT-2) : Training small GPT-2 style models using Kolmogorov-Arnold networks.(despite the KAN model having 25% fewer parameters!).
 - [Simple-KAN-4-Time-Series](https://github.com/MSD-IRIMAS/Simple-KAN-4-Time-Series) : A simple feature-based time series classifier using Kolmogorov–Arnold Networks ｜ ![Github stars](https://img.shields.io/github/stars/MSD-IRIMAS/Simple-KAN-4-Time-Series.svg)
 - [kanrl](https://github.com/riiswa/kanrl) : Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments ｜ ![Github stars](https://img.shields.io/github/stars/riiswa/kanrl.svg)
-
 
 
 ## Tutorial
