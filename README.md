@@ -73,12 +73,11 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Andrey Kolmogorov — one of the greatest mathematicians of the XXth century](https://valeman.medium.com/andrey-kolmogorov-one-of-the-greatest-mathematicians-of-the-xxst-century-4167ad02d10)
 
 ### YouTube
-
-- [KAN: Kolmogorov-Arnold Networks Explained](https://www.youtube.com/watch?v=CkCijaXqAOM)
+- [Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem](https://www.youtube.com/watch?v=-PFIkkwWdnM&t=1515s&ab_channel=UmarJamil)
 - [Didn't Graduate Guide to: Kolmogorov-Arnold Networks](https://www.youtube.com/watch?app=desktop&v=3XAW0kqbH2Q&feature=youtu.be&ab_channel=DeepFriedPancake)
 - [超越谷歌DeepMind的最新大作：KAN全网最详细解读！](https://www.youtube.com/watch?v=OEvJE-O1R2k)
-- [Randomness and Kolmogorov Complexity](https://www.youtube.com/watch?app=desktop&v=0cHHKDAelCo&noapp=1)
-- [Unboxing Functions: The Power of Addition and the Kolmogorov-Arnold Theorem #shorts](https://www.youtube.com/shorts/Yu1zsGhanh8)
+- [KAN: Kolmogorov-Arnold Networks Explained](https://www.youtube.com/watch?v=CkCijaXqAOM)
+
 
 ## Contributing
 
