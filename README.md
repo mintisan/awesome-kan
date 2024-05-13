@@ -42,7 +42,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Deep-KAN](https://github.com/sidhu2690/Deep-KAN) : This repository contains a better implementation of Kolmogorov-Arnold networks ｜ ![Github stars](https://img.shields.io/github/stars/sidhu2690/Deep-KAN.svg)
 - [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) : Implementation of Graph Neural Network version of Kolmogorov Arnold Networks (GraphKAN) ｜ ![Github stars](https://img.shields.io/github/stars/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks.svg)
 - [RBF-KAN](https://github.com/sidhu2690/RBF-KAN) : This code implements a Radial Basis Function (RBF) based Kolmogorov-Arnold Network (KAN) for function approximation. ｜ ![Github stars](https://img.shields.io/github/stars/sidhu2690/RBF-KAN.svg)
-- [Conv-KAN](https://github.com/IvanDrokin/torch-conv-kan) : This repository implements Convolutional Kolmogorov-Arnold Layers and Kolmogorov-Arnold-Legendre Network Layers
+- [Conv-KAN](https://github.com/IvanDrokin/torch-conv-kan) : This repository implements Convolutional Kolmogorov-Arnold Layers and Kolmogorov-Arnold-Legendre Network Layers ｜ ![Github stars](https://github.com/IvanDrokin/torch-conv-kan.svg)
 
 
 ## Project
