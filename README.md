@@ -64,6 +64,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ## Tutorial
 
 - [KAN Author's twitter introduction](https://twitter.com/ZimingLiu11/status/1785483967719981538)
+- [A Simplified Explanation Of The New Kolmogorov-Arnold Network (KAN) from MIT](https://medium.com/@isaakmwangi2018/a-simplified-explanation-of-the-new-kolmogorov-arnold-network-kan-from-mit-cbb59793a040)
 - [team-daniel/KAN](https://github.com/team-daniel/KAN) : Implementation on how to use Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.｜ ![Github stars](https://img.shields.io/github/stars/team-daniel/KAN.svg)
 - [Official Tutorial Notebooks](https://github.com/KindXiaoming/pykan/tree/master/tutorials)
 - [imodelsX examples with KAN](https://github.com/csinva/imodelsX/blob/master/demo_notebooks/kan.ipynb) : Scikit-learn wrapper for tabular data for KAN (Kolmogorov Arnold Network)
