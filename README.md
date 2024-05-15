@@ -41,6 +41,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [xKAN](https://github.com/mlsquare/xKAN) : Kolmogorov-Arnold Networks with various basis functions like B-Splines, Fourier, Chebyshev, Wavelets etc ｜ ![Github stars](https://img.shields.io/github/stars/mlsquare/xKAN.svg)
 - [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
 - [kan-polar](https://github.com/mpoluektov/kan-polar) : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
+
 - [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) : Implementation of Graph Neural Network version of Kolmogorov Arnold Networks (GraphKAN) ｜ ![Github stars](https://img.shields.io/github/stars/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks.svg)
 - [OrthogPolyKAN](https://github.com/Boris-73-TA/OrthogPolyKANs) : Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/Boris-73-TA/OrthogPolyKANs.svg)
 - [kansformers](https://github.com/akaashdash/kansformers) : Kansformers: Transformers using KANs | ![Github stars](https://img.shields.io/github/stars/akaashdash/kansformers.svg)
@@ -55,7 +56,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ### Alternative
 
-- [Piecewise Polynomial in PyTorch](https://github.com/jloveric/high-order-layers-torch) : Lagrange Polynomial, Piecewise Lagrange Polynomial, Discontinuous Piecewise Lagrange Polynomial, Fourier Series, sum and product layers in PyTorch. 
+- [high-order-layers-torch](https://github.com/jloveric/high-order-layers-torch) : High order piecewise polynomial neural networks using Chebyshev polynomials at Gauss Lobatto nodes (lagrange polynomials). Includes convolutional layers as well HP refinement for non convolutional layers, linear initialization and various applications in the linked repos with varrying levels of success. Euler equations of fluid dynamics, nlp, implicit representation and more | ![Github stars](https://img.shields.io/github/stars/jloveric/high-order-layers-torch.svg)
 
 ## Project
 
