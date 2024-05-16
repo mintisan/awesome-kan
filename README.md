@@ -14,6 +14,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 - [Papers](#papers)
 - [Library](#library)
+  - [ConvKANs](#convkans)
 - [Project](#project)
 - [Discussion](#discussion)
 - [Tutorial](#tutorial)
