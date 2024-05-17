@@ -34,6 +34,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 - 2009-[On a constructive proof of Kolmogorov’s superposition theorem](https://ins.uni-bonn.de/media/public/publication-media/remonkoe.pdf?pk=82)
 - 2021-[The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
+- 2021-[The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/pdf/2112.09963)
 
 ## Library
 
