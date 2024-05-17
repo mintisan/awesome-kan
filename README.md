@@ -123,6 +123,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Kolmogorov Arnold Networks (KAN) Paper Explained - An exciting new paradigm for Deep Learning?](https://www.youtube.com/watch?v=7zpz_AlFW2w&ab_channel=NeuralBreakdownwithAVB)
 - [KAN: Kolmogorov-Arnold Networks Explained](https://www.youtube.com/watch?v=CkCijaXqAOM)
 - [Kolmogorov-Arnold Networks (KANs) and Lennard Jones](https://www.youtube.com/watch?v=_0q7scVScBI&ab_channel=JohnKitchin)
+- [Simply explained! KAN: Kolmogorov–Arnold Networks is interpretable! Mathematics and Physics](https://www.youtube.com/watch?v=q8qFYMycNKE)
 
 ## Contributing
 
