@@ -17,6 +17,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Library](#library)
   - [ConvKANs](#convkans)
   - [Benchmark](#benchmark)
+  - [Non-Python](#non-python)
 - [Project](#project)
 - [Discussion](#discussion)
 - [Tutorial](#tutorial)
@@ -53,13 +54,12 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [FastKAN](https://github.com/ZiyaoLi/fast-kan) : Very Fast Calculation of Kolmogorov-Arnold Networks (KAN)  ｜ ![Github stars](https://img.shields.io/github/stars/ZiyaoLi/fast-kan.svg)
 - [xKAN](https://github.com/mlsquare/xKAN) : Kolmogorov-Arnold Networks with various basis functions like B-Splines, Fourier, Chebyshev, Wavelets etc ｜ ![Github stars](https://img.shields.io/github/stars/mlsquare/xKAN.svg)
 - [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
-- [kan-polar](https://github.com/mpoluektov/kan-polar) : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
 - [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) : Implementation of Graph Neural Network version of Kolmogorov Arnold Networks (GraphKAN) ｜ ![Github stars](https://img.shields.io/github/stars/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks.svg)
 - [OrthogPolyKAN](https://github.com/Boris-73-TA/OrthogPolyKANs) : Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/Boris-73-TA/OrthogPolyKANs.svg)
 - [kansformers](https://github.com/akaashdash/kansformers) : Kansformers: Transformers using KANs | ![Github stars](https://img.shields.io/github/stars/akaashdash/kansformers.svg)
 - [Deep-KAN](https://github.com/Sid2690/Deep-KAN): Better implementation of Kolmogorov Arnold Network  | ![Github stars](https://img.shields.io/github/stars/Sid2690/Deep-KAN.svg)
 - [RBF-KAN](https://github.com/Sid2690/RBF-KAN): RBF-KAN is a PyTorch module that implements a Radial Basis Function Kolmogorov-Arnold Network  | ![Github stars](https://img.shields.io/github/stars/Sid2690/RBF-KAN.svg)
-- [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
+- [KANX](https://github.com/stergiosba/kanx) : Fast Implementation (Approximation) of Kolmogorov-Arnold Network in JAX  | ![Github stars](https://img.shields.io/github/stars/stergiosba/kanx.svg)
 
 
 ### ConvKANs
@@ -73,6 +73,11 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 - [KAN-benchmarking](https://github.com/Jerry-Master/KAN-benchmarking) : Benchmark for efficiency in memory and time of different KAN implementations. | ![Github stars](https://img.shields.io/github/stars/Jerry-Master/KAN-benchmarking.svg)
 
+
+### Non-Python
+
+- [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
+- [kan-polar](https://github.com/mpoluektov/kan-polar) : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
 
 
 ### Alternative
