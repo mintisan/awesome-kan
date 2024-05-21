@@ -1,3 +1,12 @@
+'''These is a sample code for the simulations of the paper:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835325
+which will be published soon. We used efficient KAN notation and some part of the code:https://github.com/Blealtan/efficient-kan
+
+We put the Arxiv link of the paper soon (Now, it is on SSRN online library)
+
+Bozorgasl, Zavareh and Chen, Hao, Wav-KAN: Wavelet Kolmogorov-Arnold Networks (May 15, 2024). Available at SSRN: https://ssrn.com/abstract=
+
+'''
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
