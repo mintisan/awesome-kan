@@ -152,3 +152,7 @@ Please make sure that the resources you add are relevant to the field of Kolmogo
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mintisan/awesome-kan&type=Date)](https://star-history.com/#mintisan/awesome-kan&Date)
