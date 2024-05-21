@@ -60,6 +60,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Deep-KAN](https://github.com/Sid2690/Deep-KAN): Better implementation of Kolmogorov Arnold Network  | ![Github stars](https://img.shields.io/github/stars/Sid2690/Deep-KAN.svg)
 - [RBF-KAN](https://github.com/Sid2690/RBF-KAN): RBF-KAN is a PyTorch module that implements a Radial Basis Function Kolmogorov-Arnold Network  | ![Github stars](https://img.shields.io/github/stars/Sid2690/RBF-KAN.svg)
 - [KANX](https://github.com/stergiosba/kanx) : Fast Implementation (Approximation) of Kolmogorov-Arnold Network in JAX  | ![Github stars](https://img.shields.io/github/stars/stergiosba/kanx.svg)
+- [jaxKAN](https://github.com/srigas/jaxKAN) : Adaptation of the original KAN (with full regularization) in JAX + Flax | ![Github stars](https://img.shields.io/github/stars/srigas/jaxKAN.svg)
 
 
 ### ConvKANs
