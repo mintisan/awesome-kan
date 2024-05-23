@@ -73,6 +73,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [convkan](https://github.com/StarostinV/convkan) : Implementation of convolutional layer version of KAN (drop-in replacement of Conv2d) ｜ ![Github stars](https://img.shields.io/github/stars/StarostinV/convkan.svg)
 - [KA-Conv](https://github.com/XiangboGaoBarry/KA-Conv) : Kolmogorov-Arnold Convolutional Networks with Various Basis Functions (Optimization for Efficiency and GPU memory usage) | ![Github stars](https://img.shields.io/github/stars/XiangboGaoBarry/KA-Conv.svg)
  - [KAN-Conv2D](https://github.com/omarrayyann/KAN-Conv2D) : Drop-in Convolutional KAN built on multiple implementations ([Original pykan](https://github.com/KindXiaoming/pykan) / [efficient-kan](https://github.com/Blealtan/efficient-kan) / [FastKAN](https://github.com/ZiyaoLi/fast-kan)) to support the original paper hyperparameters. | ![Github stars](https://img.shields.io/github/stars/omarrayyann/KAN-Conv2D.svg)
+ - [CNN-KAN](https://github.com/jakariaemon/CNN-KAN) : A modified CNN architecture using Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/jakariaemon/CNN-KAN.svg)
+
 
 ### Benchmark
 
