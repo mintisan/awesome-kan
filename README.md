@@ -105,7 +105,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [X-KANeRF](https://github.com/lif314/X-KANeRF) : X-KANeRF: KAN-based NeRF with Various Basis Functions to explain the the NeRF formula ｜ ![Github stars](https://img.shields.io/github/stars/lif314/X-KANeRF.svg)
 - [KAN4Graph](https://github.com/yueliu1999/KAN4Graph) : Implementation of Kolmogorov-Arnold Network (KAN) for Graph Neural Networks (GNNs) and Tasks on Graphs ｜ ![Github stars](https://img.shields.io/github/stars/yueliu1999/KAN4Graph.svg)
 - [ImplicitKAN](https://github.com/belkakari/implicit-kan) : Kolmogorov-Arnold Network (KAN) as an implicit function for images and other modalities ｜ ![Github stars](https://img.shields.io/github/stars/belkakari/implicit-kan.svg)
-- [ThangKAN](https://github.com/hoangthangta/ThangKAN) : Kolmogorov-Arnold Network (KAN) for text classification over GLUE tasks ｜ ![Github stars](https://img.shields.io/github/stars/belkakari/implicit-kan.svg)
+- [ThangKAN](https://github.com/hoangthangta/ThangKAN) : Kolmogorov-Arnold Network (KAN) for text classification over GLUE tasks ｜ ![Github stars](https://img.shields.io/github/stars/hoangthangta/ThangKAN.svg)
 - [JianpanHuang/KAN](https://github.com/JianpanHuang/KAN) : This repository contains a demo of regression task (curve fitting) using an efficient Kolmogorov-Arnold Network. ｜ ![Github stars](https://img.shields.io/github/stars/JianpanHuang/KAN.svg)
 
 
