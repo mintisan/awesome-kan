@@ -31,7 +31,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Chebyshev Polynomial-Based Kolmogorov-Arnold Networks](https://arxiv.org/html/2405.07200v1) : The document discusses a novel neural network architecture called the Chebyshev Kolmogorov-Arnold Network (Chebyshev KAN) for approximating complex nonlinear functions. It combines the theoretical foundations of the Kolmogorov-Arnold Theorem with the powerful approximation capabilities of Chebyshev polynomials. The Chebyshev KAN layer approximates a target multivariate function by representing it as a weighted sum of Chebyshev polynomials, leveraging the Kolmogorov-Arnold Theorem's guarantee of the existence of a superposition of univariate functions to represent any continuous multivariate function. The paper provides a detailed mathematical explanation of the implementation, training, and optimization of the Chebyshev KAN layer, as well as experimental results demonstrating its effectiveness in approximating complex fractal-like functions.
 - [TKAN: Temporal Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.07344) ｜ [code](https://github.com/remigenet/tkan) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/pdf/2405.08790)
--[Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
+- [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
 
 ### Theorem
 
