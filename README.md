@@ -32,7 +32,6 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TKAN: Temporal Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.07344) ｜ [code](https://github.com/remigenet/tkan) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/pdf/2405.08790)
 - [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
-- [KAN: Kolmogorov–Arnold Networks: A review](https://vikasdhiman.info/reviews/KAN_a_review.pdf) : This review raises 4 major criticisms of the paper [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). "MLPs have learnable activation functions as well", "The content of the paper does not justify the name, Kolmogorov-Arnold networks (KANs)", "KANs are MLPs with spline-basis as the activation function" and "KANs do not beat the curse of dimensionality" unlike claimed.
 
 
 ### Theorem
@@ -119,6 +118,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [**Can Kolmogorov–Arnold Networks (KAN) beat MLPs?**](https://pub.towardsai.net/can-kolmogorov-arnold-networks-kan-beat-mlps-060fc34da9ce)
 - [Twitter thinks they killed MLPs. But what are Kolmogorov-Arnold Networks?](https://medium.com/@mikeyoung_97230/twitter-thinks-they-killed-mlps-but-what-are-kolmogorov-arnold-networks-b1ec6131891e)
 - [[D] Kolmogorov-Arnold Network is just an MLP](https://www.reddit.com/r/MachineLearning/comments/1clcu5i/d_kolmogorovarnold_network_is_just_an_mlp/)
+- [KAN: Kolmogorov–Arnold Networks: A review](https://vikasdhiman.info/reviews/KAN_a_review.pdf) : This review raises 4 major criticisms of the paper [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). "MLPs have learnable activation functions as well", "The content of the paper does not justify the name, Kolmogorov-Arnold networks (KANs)", "KANs are MLPs with spline-basis as the activation function" and "KANs do not beat the curse of dimensionality" unlike claimed.
 
 ## Tutorial
 
