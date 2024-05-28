@@ -12,17 +12,22 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Table of Contents
 
-- [Papers](#papers)
-  - [Theorem](#theorem)
-- [Library](#library)
-  - [ConvKANs](#convkans)
-  - [Benchmark](#benchmark)
-  - [Non-Python](#non-python)
-- [Project](#project)
-- [Discussion](#discussion)
-- [Tutorial](#tutorial)
-  - [YouTube](#youtube) 
-- [Contributing](#contributing)
+- [Awesome KAN(Kolmogorov-Arnold Network)](#awesome-kankolmogorov-arnold-network)
+  - [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+    - [Theorem](#theorem)
+  - [Library](#library)
+    - [ConvKANs](#convkans)
+    - [Benchmark](#benchmark)
+    - [Non-Python](#non-python)
+    - [Alternative](#alternative)
+  - [Project](#project)
+  - [Discussion](#discussion)
+  - [Tutorial](#tutorial)
+    - [YouTube](#youtube)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Star History](#star-history)
 
 
 ## Papers
@@ -32,6 +37,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TKAN: Temporal Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.07344) ｜ [code](https://github.com/remigenet/tkan) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/pdf/2405.08790)
 - [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
+- [A First Look at Kolmogorov-Arnold Networks in Surrogate-assisted Evolutionary Algorithms](https://arxiv.org/abs/2405.16494) |  [code](https://github.com/hhyqhh/KAN-EA): Surrogate-assisted Evolutionary Algorithm (SAEA) is an essential method for solving expensive expensive problems. Utilizing surrogate models to substitute the optimization function can significantly reduce reliance on the function evaluations during the search process, thereby lowering the optimization costs. The construction of surrogate models is a critical component in SAEAs, with numerous machine learning algorithms playing a pivotal role in the model-building phase. This paper introduces Kolmogorov-Arnold Networks (KANs) as surrogate models within SAEAs, examining their application and effectiveness. We employ KANs for regression and classification tasks, focusing on the selection of promising solutions during the search process, which consequently reduces the number of expensive function evaluations. Experimental results indicate that KANs demonstrate commendable performance within SAEAs, effectively decreasing the number of function calls and enhancing the optimization efficiency. The relevant code is publicly accessible and can be found in the GitHub repository.
 
 
 ### Theorem
