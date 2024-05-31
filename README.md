@@ -139,6 +139,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Why is the (KAN) Kolmogorov-Arnold Networks so promising](https://engyasin.github.io/posts/why-the-new-kolmogorov-arnold-networks-so-promising/)
 - [Demystifying Kolmogorov-Arnold Networks: A Beginner-Friendly Guide with Code](https://daniel-bethell.co.uk/posts/kan/)
 - [KANvas](https://kanvas.deepverse.tech/#/kan) : Provide quick & intuitive interaction for people to try KAN
+- [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/): Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
 
 ### YouTube
 
