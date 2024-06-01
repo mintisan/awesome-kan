@@ -67,6 +67,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KANX](https://github.com/stergiosba/kanx) : Fast Implementation (Approximation) of Kolmogorov-Arnold Network in JAX  | ![Github stars](https://img.shields.io/github/stars/stergiosba/kanx.svg)
 - [jaxKAN](https://github.com/srigas/jaxKAN) : Adaptation of the original KAN (with full regularization) in JAX + Flax | ![Github stars](https://img.shields.io/github/stars/srigas/jaxKAN.svg)
 - [cuda-Wavelet-KAN](https://github.com/Da1sypetals/cuda-Wavelet-KAN) : CUDA implementation of Wavelet KAN.  | ![Github stars](https://img.shields.io/github/stars/Da1sypetals/cuda-Wavelet-KAN.svg)
+- [FlashKAN](https://github.com/dinesh110598/FlashKAN/): Grid size-independent computation of Kolmogorov Arnold networks | ![Github stars](https://img.shields.io/github/stars/dinesh110598/FlashKAN/)
 
 
 
