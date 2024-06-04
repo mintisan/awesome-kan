@@ -91,6 +91,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
 - [kan-polar](https://github.com/mpoluektov/kan-polar) : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
 - [kamo](https://github.com/dorjeduck/kamo) : Kolmogorov-Arnold Networks in Mojo ｜ ![Github stars](https://img.shields.io/github/stars/dorjeduck/kamo.svg)
+- [Building a Kolmogorov-Arnold Neural Network in C](https://rabmcmenemy.medium.com/building-a-kolmogorov-arnold-neural-network-in-c-fac89f2b2330)
 
 
 
