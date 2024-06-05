@@ -161,6 +161,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN: Kolmogorov-Arnold Networks Explained](https://www.youtube.com/watch?v=CkCijaXqAOM)
 - [Kolmogorov-Arnold Networks (KANs) and Lennard Jones](https://www.youtube.com/watch?v=_0q7scVScBI&ab_channel=JohnKitchin)
 - [Simply explained! KAN: Kolmogorov–Arnold Networks is interpretable! Mathematics and Physics](https://www.youtube.com/watch?v=q8qFYMycNKE)
+- [用KAN拟合环境光渲染的查找表](https://www.youtube.com/watch?v=xZ2TyGAYefQ&ab_channel=MinminGong) | [code](https://github.com/gongminmin/KlayGE/tree/develop/KlayGE/Samples/src/EnvLighting)
 
 ## Contributing
 
