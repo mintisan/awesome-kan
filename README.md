@@ -86,6 +86,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 ### Benchmark
 
 - [KAN-benchmarking](https://github.com/Jerry-Master/KAN-benchmarking) : Benchmark for efficiency in memory and time of different KAN implementations. | ![Github stars](https://img.shields.io/github/stars/Jerry-Master/KAN-benchmarking.svg)
+- [seydi1370/Basis_Functions](https://github.com/seydi1370/Basis_Functions) : This packaege investigates the performance of 18 different polynomial basis functions, grouped into several categories based on their mathematical properties and areas of application. The study evaluates the effectiveness of these polynomial-based KANs on the MNIST dataset for handwritten digit classification. | ![Github stars](https://img.shields.io/github/stars/seydi1370/Basis_Functions.svg)
 
 
 ### Non-Python
