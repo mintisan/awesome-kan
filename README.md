@@ -31,7 +31,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Chebyshev Polynomial-Based Kolmogorov-Arnold Networks](https://arxiv.org/html/2405.07200v1)
 - [TKAN: Temporal Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.07344) ｜ [code](https://github.com/remigenet/tkan) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [ReLU-KAN: New Kolmogorov-Arnold Networks that Only Need Matrix Addition, Dot Multiplication, and ReLU](https://arxiv.org/abs/2406.02075) ｜ [code](https://github.com/quiqi/relu_kan) ｜ ![Github stars](https://img.shields.io/github/stars/quiqi/relu_kan.svg)
-- [U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation]()https://arxiv.org/abs/2406.02918｜ [code](https://github.com/CUHK-AIM-Group/U-KAN) ｜ ![Github stars](https://img.shields.io/github/stars/CUHK-AIM-Group/U-KAN.svg)
+- [U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation](https://arxiv.org/abs/2406.02918)｜ [code](https://github.com/CUHK-AIM-Group/U-KAN) ｜ ![Github stars](https://img.shields.io/github/stars/CUHK-AIM-Group/U-KAN.svg)
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/pdf/2405.08790)
 - [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
 - [A First Look at Kolmogorov-Arnold Networks in Surrogate-assisted Evolutionary Algorithms](https://arxiv.org/abs/2405.16494) | [code](https://github.com/hhyqhh/KAN-EA)｜ ![Github stars](https://img.shields.io/github/stars/hhyqhh/KAN-EA.svg)
