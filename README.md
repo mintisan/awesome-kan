@@ -71,6 +71,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [cuda-Wavelet-KAN](https://github.com/Da1sypetals/cuda-Wavelet-KAN) : CUDA implementation of Wavelet KAN.  | ![Github stars](https://img.shields.io/github/stars/Da1sypetals/cuda-Wavelet-KAN.svg)
 - [FlashKAN](https://github.com/dinesh110598/FlashKAN/): Grid size-independent computation of Kolmogorov Arnold networks | ![Github stars](https://img.shields.io/github/stars/dinesh110598/FlashKAN.svg)
 - [BSRBF_KAN](https://github.com/hoangthangta/BSRBF_KAN/): Combine B-Spline (BS) and Radial Basic Function (RBF) in Kolmogorov-Arnold Networks (KANs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/BSRBF_KAN.svg)
+- [TaylorKAN](https://github.com/Muyuzhierchengse/TaylorKAN/): Kolmogorov-Arnold Networks (KAN) using Taylor series instead of Fourier | ![Github stars](https://img.shields.io/github/stars/Muyuzhierchengse/TaylorKAN.svg)
 
 
 ### ConvKANs
