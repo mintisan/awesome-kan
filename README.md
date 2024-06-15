@@ -36,7 +36,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/pdf/2405.08790)
 - [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
 - [A First Look at Kolmogorov-Arnold Networks in Surrogate-assisted Evolutionary Algorithms](https://arxiv.org/abs/2405.16494) | [code](https://github.com/hhyqhh/KAN-EA)｜ ![Github stars](https://img.shields.io/github/stars/hhyqhh/KAN-EA.svg)
-- [fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions](https://arxiv.org/abs/2406.07456)
+- [fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions](https://arxiv.org/abs/2406.07456) | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 
 ### Theorem
 
