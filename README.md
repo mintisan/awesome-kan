@@ -46,6 +46,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting](https://arxiv.org/abs/2406.02486) ｜ [code](https://github.com/remigenet/TKAT)) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions](https://arxiv.org/abs/2406.07456) | [code](https://github.com/alirezaafzalaghaei/fKAN) | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 - [BSRBF-KAN: A combination of B-splines and Radial Basic Functions in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.11173) | [code](https://github.com/hoangthangta/BSRBF_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/BSRBF_KAN.svg)
+- [GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.13597) | [code](https://github.com/Ryanfzhang/GraphKan) | ![Github stars](https://img.shields.io/github/stars/Ryanfzhang/GraphKan.svg)
 
 ### Theorem
 
