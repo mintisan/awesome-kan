@@ -47,6 +47,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions](https://arxiv.org/abs/2406.07456) | [code](https://github.com/alirezaafzalaghaei/fKAN) | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 - [BSRBF-KAN: A combination of B-splines and Radial Basic Functions in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.11173) | [code](https://github.com/hoangthangta/BSRBF_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/BSRBF_KAN.svg)
 - [GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.13597) | [code](https://github.com/Ryanfzhang/GraphKan) | ![Github stars](https://img.shields.io/github/stars/Ryanfzhang/GraphKan.svg)
+- [rKAN: Rational Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.14495) | [code](https://github.com/alirezaafzalaghaei/rKAN) | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/rKAN.svg)
 
 ### Theorem
 
@@ -87,6 +88,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TaylorKAN](https://github.com/Muyuzhierchengse/TaylorKAN/): Kolmogorov-Arnold Networks (KAN) using Taylor series instead of Fourier | ![Github stars](https://img.shields.io/github/stars/Muyuzhierchengse/TaylorKAN.svg)
 - [fKAN](https://github.com/alirezaafzalaghaei/fKAN/): fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 - [Initial Investigation of Kolmogorov-Arnold Networks (KANs) as Feature Extractors for IMU Based Human Activity Recognition](https://arxiv.org/abs/2406.11914)
+- [rKAN](https://github.com/alirezaafzalaghaei/rKAN/): rKAN: Rational Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/rKAN.svg)
 
 ### ConvKANs
 
