@@ -43,11 +43,12 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Kolmogorov-Arnold Networks (KANs) for Time Series Analysis](https://arxiv.org/pdf/2405.08790)
 - [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
 - [A First Look at Kolmogorov-Arnold Networks in Surrogate-assisted Evolutionary Algorithms](https://arxiv.org/abs/2405.16494) | [code](https://github.com/hhyqhh/KAN-EA)｜ ![Github stars](https://img.shields.io/github/stars/hhyqhh/KAN-EA.svg)
-- [A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting](https://arxiv.org/abs/2406.02486) ｜ [code](https://github.com/remigenet/TKAT)) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
+- [A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting](https://arxiv.org/abs/2406.02486) ｜ [code](https://github.com/remigenet/TKAT) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions](https://arxiv.org/abs/2406.07456) | [code](https://github.com/alirezaafzalaghaei/fKAN) | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 - [BSRBF-KAN: A combination of B-splines and Radial Basic Functions in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.11173) | [code](https://github.com/hoangthangta/BSRBF_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/BSRBF_KAN.svg)
 - [GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.13597) | [code](https://github.com/Ryanfzhang/GraphKan) | ![Github stars](https://img.shields.io/github/stars/Ryanfzhang/GraphKan.svg)
 - [rKAN: Rational Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.14495) | [code](https://github.com/alirezaafzalaghaei/rKAN) | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/rKAN.svg)
+- [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890) ｜ [code](https://github.com/remigenet/SigKAN) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 
 ### Theorem
 
@@ -89,7 +90,10 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [fKAN](https://github.com/alirezaafzalaghaei/fKAN/): fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 - [Initial Investigation of Kolmogorov-Arnold Networks (KANs) as Feature Extractors for IMU Based Human Activity Recognition](https://arxiv.org/abs/2406.11914)
 - [rKAN](https://github.com/alirezaafzalaghaei/rKAN/): rKAN: Rational Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/rKAN.svg)
-
+- [TKAN](https://github.com/remigenet/TKAN): Temporal Kolmogorov-Arnold Networks Tensorflow 2.x layer implementations | ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
+- [TKAT](https://github.com/remigenet/TKAT): Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
+- [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
+ 
 ### ConvKANs
 
 - [Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs) : This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to non linear activations in each pixel. ｜ ![Github stars](https://img.shields.io/github/stars/AntonioTepsich/Convolutional-KANs.svg)
