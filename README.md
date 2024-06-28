@@ -93,6 +93,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TKAN](https://github.com/remigenet/TKAN): Temporal Kolmogorov-Arnold Networks Tensorflow 2.x layer implementations | ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [TKAT](https://github.com/remigenet/TKAT): Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
+- [xmm-prototype](https://github.com/Da1sypetals/XMM-prototype): (_💕 Needing contribution if you master optimizing CUDA code!❤️❤️❤️_) A tool for customizing your own KAN that runs on CUDA with minimal lines of code.
  
 ### ConvKANs
 
