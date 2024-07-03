@@ -179,6 +179,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KANvas](https://kanvas.deepverse.tech/#/kan) : Provide quick & intuitive interaction for people to try KAN
 - [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/): Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
 - [KAN-Continual_Learning_tests](https://github.com/MrPio/KAN-Continual_Learning_tests) : Collection of tests performed during the study of the new Kolmogorov-Arnold Neural Networks (KAN) ｜ ![Github stars](https://img.shields.io/github/stars/MrPio/KAN-Continual_Learning_tests.svg)
+- [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
 
 ### YouTube
 
