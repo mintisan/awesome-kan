@@ -51,7 +51,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.13597) | [code](https://github.com/Ryanfzhang/GraphKan) | ![Github stars](https://img.shields.io/github/stars/Ryanfzhang/GraphKan.svg)
 - [rKAN: Rational Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.14495) | [code](https://github.com/alirezaafzalaghaei/rKAN) | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/rKAN.svg)
 - [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890) ｜ [code](https://github.com/remigenet/SigKAN) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
-- [Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks](https://arxiv.org/abs/2406.14916)
+- [Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks](https://arxiv.org/abs/2406.14916) | [code](https://github.com/jmj2316/KAN-in-VIsion) ｜ ![Github stars](https://img.shields.io/github/stars/jmj2316/KAN-in-VIsion.svg)
   
 ### Theorem
 
