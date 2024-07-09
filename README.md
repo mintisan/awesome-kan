@@ -117,6 +117,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
 - [kan-polar](https://github.com/mpoluektov/kan-polar) : Kolmogorov-Arnold Networks in MATLAB ｜ ![Github stars](https://img.shields.io/github/stars/mpoluektov/kan-polar.svg)
 - [kamo](https://github.com/dorjeduck/kamo) : Kolmogorov-Arnold Networks in Mojo ｜ ![Github stars](https://img.shields.io/github/stars/dorjeduck/kamo.svg)
+- [Julia-Wav-KAN](https://github.com/PritRaj1/Julia-Wav-KAN) : A Julia implementation of Wavelet Kolmogorov-Arnold Networks. ｜ ![Github stars](https://img.shields.io/github/stars/PritRaj1/Julia-Wav-KAN.svg)
 - [Building a Kolmogorov-Arnold Neural Network in C](https://rabmcmenemy.medium.com/building-a-kolmogorov-arnold-neural-network-in-c-fac89f2b2330)
 
 
@@ -177,6 +178,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Demystifying Kolmogorov-Arnold Networks: A Beginner-Friendly Guide with Code](https://daniel-bethell.co.uk/posts/kan/)
 - [KANvas](https://kanvas.deepverse.tech/#/kan) : Provide quick & intuitive interaction for people to try KAN
 - [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/): Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
+- [KAN-Continual_Learning_tests](https://github.com/MrPio/KAN-Continual_Learning_tests) : Collection of tests performed during the study of the new Kolmogorov-Arnold Neural Networks (KAN) ｜ ![Github stars](https://img.shields.io/github/stars/MrPio/KAN-Continual_Learning_tests.svg)
+- [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
 
 ### YouTube
 
