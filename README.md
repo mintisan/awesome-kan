@@ -54,6 +54,10 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks](https://arxiv.org/abs/2406.14916) | [code](https://github.com/jmj2316/KAN-in-VIsion) ｜ ![Github stars](https://img.shields.io/github/stars/jmj2316/KAN-in-VIsion.svg)
 - [DeepOKAN: Deep Operator Network Based on Kolmogorov Arnold Networks for Mechanics Problems](https://arxiv.org/abs/2405.19143)
 - [A deep machine learning algorithm for construction of the Kolmogorov–Arnold representation](https://www.sciencedirect.com/science/article/abs/pii/S0952197620303742))
+
+### Survey
+
+- [A Comprehensive Survey on Kolmogorov Arnold Networks (KAN)](https://arxiv.org/abs/2407.11075)
   
 ### Theorem
 
