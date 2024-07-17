@@ -53,6 +53,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [SigKAN: Signature-Weighted Kolmogorov-Arnold Networks for Time Series](https://arxiv.org/abs/2406.17890) ｜ [code](https://github.com/remigenet/SigKAN) ｜ ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 - [Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks](https://arxiv.org/abs/2406.14916) | [code](https://github.com/jmj2316/KAN-in-VIsion) ｜ ![Github stars](https://img.shields.io/github/stars/jmj2316/KAN-in-VIsion.svg)
 - [DeepOKAN: Deep Operator Network Based on Kolmogorov Arnold Networks for Mechanics Problems](https://arxiv.org/abs/2405.19143)
+- [A deep machine learning algorithm for construction of the Kolmogorov–Arnold representation](https://www.sciencedirect.com/science/article/abs/pii/S0952197620303742))
   
 ### Theorem
 
@@ -121,13 +122,14 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [kamo](https://github.com/dorjeduck/kamo) : Kolmogorov-Arnold Networks in Mojo ｜ ![Github stars](https://img.shields.io/github/stars/dorjeduck/kamo.svg)
 - [Julia-Wav-KAN](https://github.com/PritRaj1/Julia-Wav-KAN) : A Julia implementation of Wavelet Kolmogorov-Arnold Networks. ｜ ![Github stars](https://img.shields.io/github/stars/PritRaj1/Julia-Wav-KAN.svg)
 - [Building a Kolmogorov-Arnold Neural Network in C](https://rabmcmenemy.medium.com/building-a-kolmogorov-arnold-neural-network-in-c-fac89f2b2330)
-
+- [C# and C++ implementations, benchmarks, tutorials](http://openkan.org/)
 
 
 
 ### Alternative
 
 - [high-order-layers-torch](https://github.com/jloveric/high-order-layers-torch) : High order piecewise polynomial neural networks using Chebyshev polynomials at Gauss Lobatto nodes (lagrange polynomials). Includes convolutional layers as well HP refinement for non convolutional layers, linear initialization and various applications in the linked repos with varrying levels of success. Euler equations of fluid dynamics, nlp, implicit representation and more | ![Github stars](https://img.shields.io/github/stars/jloveric/high-order-layers-torch.svg)
+- [Training based on Kaczmarz, not Broyden method](http://openkan.org/) : The training process is independent of the basis functions, the provided link shows alternative to Broyden method originally suggested in MIT paper. It outperforms MLP siginificantly, benchmarks provided. 
 
 ## Project
 
@@ -149,6 +151,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Fraud Detection in Supply Chains Using Kolmogorov Arnold Networks](https://github.com/ChrisD-7/Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks/) ｜ ![Github stars](https://img.shields.io/github/stars/ChrisD-7/Fraud-Detection-in-Supply-Chains-with-Kolmogorov-Arnold-Networks.svg)
 - [CL-KAN-ViT](https://github.com/saeedahmadicp/KAN-CL-ViT) :  Kolmogorov-Arnold Network (KAN) based vision transformer for class-based continual learning to mitigate catastrophic forgetting | ![Github stars](https://img.shields.io/github/stars/saeedahmadicp/KAN-CL-ViT.svg)
 - [KAN-Autoencoder](https://github.com/SekiroRong/KAN-AutoEncoder) : KAE KAN-based AutoEncoder (AE, VAE, VQ-VAE, RVQ, etc.) | ![Github stars](https://img.shields.io/github/stars/SekiroRong/KAN-AutoEncoder.svg)
+- [OpenKAN](http://openkan.org/)
 
 
 
@@ -197,6 +200,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Kolmogorov-Arnold Networks (KANs) and Lennard Jones](https://www.youtube.com/watch?v=_0q7scVScBI&ab_channel=JohnKitchin)
 - [Simply explained! KAN: Kolmogorov–Arnold Networks is interpretable! Mathematics and Physics](https://www.youtube.com/watch?v=q8qFYMycNKE)
 - [用KAN拟合环境光渲染的查找表](https://www.youtube.com/watch?v=xZ2TyGAYefQ&ab_channel=MinminGong) | [code](https://github.com/gongminmin/KlayGE/tree/develop/KlayGE/Samples/src/EnvLighting)
+- [Video with alternative approach to training process](https://www.youtube.com/watch?v=eS_k6L638k0)
 
 ## Contributing
 
