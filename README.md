@@ -15,6 +15,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Awesome KAN(Kolmogorov-Arnold Network)](#awesome-kankolmogorov-arnold-network)
   - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
+    - [Survey](#Survey)
     - [Theorem](#theorem)
   - [Library](#library)
     - [ConvKANs](#convkans)
