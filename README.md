@@ -103,6 +103,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TKAN](https://github.com/remigenet/TKAN): Temporal Kolmogorov-Arnold Networks Tensorflow 2.x layer implementations | ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [TKAT](https://github.com/remigenet/TKAT): Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
+- [keras_efficient_kan](https://github.com/remigenet/keras_efficient_kan): A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend
  
 ### ConvKANs
 
