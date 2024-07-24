@@ -55,6 +55,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks](https://arxiv.org/abs/2406.14916) | [code](https://github.com/jmj2316/KAN-in-VIsion) ｜ ![Github stars](https://img.shields.io/github/stars/jmj2316/KAN-in-VIsion.svg)
 - [DeepOKAN: Deep Operator Network Based on Kolmogorov Arnold Networks for Mechanics Problems](https://arxiv.org/abs/2405.19143)
 - [A deep machine learning algorithm for construction of the Kolmogorov–Arnold representation](https://www.sciencedirect.com/science/article/abs/pii/S0952197620303742))
+- [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674) : Under the same number of parameters or FLOPs, we find KAN  outperforms MLP only in symbolic formula representing, but remains inferior to MLP on other tasks of machine learning, computer vision, NLP, and audio processing. We also conduct ablation studies on KAN and find that its advantage in symbolic formula representation mainly stems from its B-spline activation function. | [code](https://github.com/yu-rp/KANbeFair) ｜ ![Github stars]
 
 ### Survey
 
