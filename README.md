@@ -102,9 +102,10 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [fKAN](https://github.com/alirezaafzalaghaei/fKAN/): fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/fKAN.svg)
 - [Initial Investigation of Kolmogorov-Arnold Networks (KANs) as Feature Extractors for IMU Based Human Activity Recognition](https://arxiv.org/abs/2406.11914)
 - [rKAN](https://github.com/alirezaafzalaghaei/rKAN/): rKAN: Rational Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/alirezaafzalaghaei/rKAN.svg)
-- [TKAN](https://github.com/remigenet/TKAN): Temporal Kolmogorov-Arnold Networks Tensorflow 2.x layer implementations | ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
+- [TKAN](https://github.com/remigenet/TKAN): Temporal Kolmogorov-Arnold Networks Keras3 layer implementations multibackend (Jax, Tensorflow, Torch) | ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [TKAT](https://github.com/remigenet/TKAT): Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
+- [keras_efficient_kan](https://github.com/remigenet/keras_efficient_kan): A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend
  
 ### ConvKANs
 
