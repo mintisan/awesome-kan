@@ -57,6 +57,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A deep machine learning algorithm for construction of the Kolmogorov–Arnold representation](https://www.sciencedirect.com/science/article/abs/pii/S0952197620303742))
 - [Inferring turbulent velocity and temperature fields and their statistics from Lagrangian velocity measurements using physics-informed Kolmogorov-Arnold Networks](https://arxiv.org/abs/2407.15727)
 - [A Comprehensive Survey on Kolmogorov Arnold Networks (KAN)](https://arxiv.org/abs/2407.11075)
+- [Sparks of Quantum Advantage and Rapid Retraining in Machine Learning](https://doi.org/10.48550/arXiv.2407.16020) | [code](https://github.com/wtroy2/Quantum-KAN) ｜ ![Github stars] (https://img.shields.io/github/stars/wtroy2/Quantum-KAN.svg)
   
 ### Theorem
 
@@ -102,6 +103,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TKAT](https://github.com/remigenet/TKAT): Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 - [keras_efficient_kan](https://github.com/remigenet/keras_efficient_kan): A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend
+- [Quantum KAN](https://github.com/wtroy2/Quantum-KAN): KANs optimizable through quantum annealing ｜ ![Github stars] (https://img.shields.io/github/stars/wtroy2/Quantum-KAN.svg)
  
 ### ConvKANs
 
