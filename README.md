@@ -17,6 +17,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
   - [Papers](#papers)
     - [Theorem](#theorem)
   - [Library](#library)
+    - [Library-based](bibrary-based)
     - [ConvKANs](#convkans)
     - [Benchmark](#benchmark)
     - [Non-Python](#non-python)
@@ -74,7 +75,6 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [efficient-kan](https://github.com/Blealtan/efficient-kan) : An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). ｜ ![Github stars](https://img.shields.io/github/stars/Blealtan/efficient-kan.svg)
 - [FastKAN](https://github.com/ZiyaoLi/fast-kan) : Very Fast Calculation of Kolmogorov-Arnold Networks (KAN)  ｜ ![Github stars](https://img.shields.io/github/stars/ZiyaoLi/fast-kan.svg)
 - [FasterKAN](https://github.com/AthanasiosDelis/faster-kan) : FasterKAN = FastKAN + RSWAF bases functions and benchmarking with other KANs. Fastest KAN variation as of 5/13/2024, 2 times slower than MLP in backward speed.  ｜ ![Github stars](https://img.shields.io/github/stars/AthanasiosDelis/faster-kan.svg)
-- [TorchKAN](https://github.com/1ssb/torchkan) : Simplified KAN Model Using Legendre approximations and Monomial basis functions for Image Classification for MNIST. Achieves 99.5% on MNIST using Conv+LegendreKAN.   ｜ ![Github stars](https://img.shields.io/github/stars/1ssb/torchkan.svg)
 - [FourierKAN](https://github.com/GistNoesis/FourierKAN/) : Pytorch Layer for FourierKAN. It is a layer intended to be a substitution for Linear + non-linear activation |  ![Github stars](https://img.shields.io/github/stars/GistNoesis/FourierKAN.svg)
 - [Vision-KAN](https://github.com/chenziwenhaoshuai/Vision-KAN) : PyTorch Implementation of Vision Transformers with KAN layers, built on top ViT. 95% accuracy on CIFAR100 (top-5), 80% on ImageNet1000 (training in progress) | ![Github stars](https://img.shields.io/github/stars/chenziwenhaoshuai/Vision-KAN.svg)
 - [ChebyKAN](https://github.com/SynodicMonth/ChebyKAN) : Kolmogorov-Arnold Networks (KAN) using Chebyshev polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SynodicMonth/ChebyKAN.svg)
@@ -92,9 +92,6 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KolmogorovArnold.jl](https://github.com/vpuri3/KolmogorovArnold.jl) : Very fast Julia implementation of KANs with RBF and RSWAF basis. Extra speedup is gained by writing custom gradients to share work between forward and backward pass. ｜ ![Github stars](https://img.shields.io/github/stars/vpuri3/KolmogorovArnold.jl)
 - [Wav-KAN](https://github.com/zavareh1/Wav-KAN): Wav-KAN: Wavelet Kolmogorov-Arnold Networks  | ![Github stars](https://img.shields.io/github/stars/zavareh1/Wav-KAN)
 - [KANX](https://github.com/stergiosba/kanx) : Fast Implementation (Approximation) of Kolmogorov-Arnold Network in JAX  | ![Github stars](https://img.shields.io/github/stars/stergiosba/kanx.svg)
-- [jaxKAN](https://github.com/srigas/jaxKAN) : Adaptation of the original KAN (with full regularization) in JAX + Flax | ![Github stars](https://img.shields.io/github/stars/srigas/jaxKAN.svg)
-- [efficient-kan-jax](https://github.com/dorjeduck/efficient-kan-jax) : JAX port of efficient-kan | ![Github stars](https://img.shields.io/github/stars/dorjeduck/efficient-kan-jax.svg)
-- [cuda-Wavelet-KAN](https://github.com/Da1sypetals/cuda-Wavelet-KAN) : CUDA implementation of Wavelet KAN.  | ![Github stars](https://img.shields.io/github/stars/Da1sypetals/cuda-Wavelet-KAN.svg)
 - [FlashKAN](https://github.com/dinesh110598/FlashKAN/): Grid size-independent computation of Kolmogorov Arnold networks | ![Github stars](https://img.shields.io/github/stars/dinesh110598/FlashKAN.svg)
 - [BSRBF_KAN](https://github.com/hoangthangta/BSRBF_KAN/): Combine B-Spline (BS) and Radial Basic Function (RBF) in Kolmogorov-Arnold Networks (KANs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/BSRBF_KAN.svg)
 - [TaylorKAN](https://github.com/Muyuzhierchengse/TaylorKAN/): Kolmogorov-Arnold Networks (KAN) using Taylor series instead of Fourier | ![Github stars](https://img.shields.io/github/stars/Muyuzhierchengse/TaylorKAN.svg)
@@ -104,8 +101,17 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TKAN](https://github.com/remigenet/TKAN): Temporal Kolmogorov-Arnold Networks Keras3 layer implementations multibackend (Jax, Tensorflow, Torch) | ![Github stars](https://img.shields.io/github/stars/remigenet/tkan.svg)
 - [TKAT](https://github.com/remigenet/TKAT): Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
+
+
+### Library-based
+
+- [TorchKAN](https://github.com/1ssb/torchkan) : Simplified KAN Model Using Legendre approximations and Monomial basis functions for Image Classification for MNIST. Achieves 99.5% on MNIST using Conv+LegendreKAN.   ｜ ![Github stars](https://img.shields.io/github/stars/1ssb/torchkan.svg)
+- [efficient-kan-jax](https://github.com/dorjeduck/efficient-kan-jax) : JAX port of efficient-kan | ![Github stars](https://img.shields.io/github/stars/dorjeduck/efficient-kan-jax.svg)
+- [jaxKAN](https://github.com/srigas/jaxKAN) : Adaptation of the original KAN (with full regularization) in JAX + Flax | ![Github stars](https://img.shields.io/github/stars/srigas/jaxKAN.svg)
+- [cuda-Wavelet-KAN](https://github.com/Da1sypetals/cuda-Wavelet-KAN) : CUDA implementation of Wavelet KAN.  | ![Github stars](https://img.shields.io/github/stars/Da1sypetals/cuda-Wavelet-KAN.svg)
 - [keras_efficient_kan](https://github.com/remigenet/keras_efficient_kan): A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend
 - [Quantum KAN](https://github.com/wtroy2/Quantum-KAN): KANs optimizable through quantum annealing | ![Github stars](https://img.shields.io/github/stars/wtroy2/Quantum-KAN.svg)
+- [KAN: Kolmogorov–Arnold Networks in MLX for Apple silicon](https://github.com/Goekdeniz-Guelmez/mlx-kan) : KAN (Kolmogorov–Arnold Networks) in the MLX framework
  
 ### ConvKANs
 
