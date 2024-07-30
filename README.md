@@ -17,7 +17,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
   - [Papers](#papers)
     - [Theorem](#theorem)
   - [Library](#library)
-    - [Library-based](bibrary-based)
+    - [Library-based](library-based)
     - [ConvKANs](#convkans)
     - [Benchmark](#benchmark)
     - [Non-Python](#non-python)
