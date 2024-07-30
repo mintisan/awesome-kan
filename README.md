@@ -109,9 +109,9 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [efficient-kan-jax](https://github.com/dorjeduck/efficient-kan-jax) : JAX port of efficient-kan | ![Github stars](https://img.shields.io/github/stars/dorjeduck/efficient-kan-jax.svg)
 - [jaxKAN](https://github.com/srigas/jaxKAN) : Adaptation of the original KAN (with full regularization) in JAX + Flax | ![Github stars](https://img.shields.io/github/stars/srigas/jaxKAN.svg)
 - [cuda-Wavelet-KAN](https://github.com/Da1sypetals/cuda-Wavelet-KAN) : CUDA implementation of Wavelet KAN.  | ![Github stars](https://img.shields.io/github/stars/Da1sypetals/cuda-Wavelet-KAN.svg)
-- [keras_efficient_kan](https://github.com/remigenet/keras_efficient_kan): A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend
+- [keras_efficient_kan](https://github.com/remigenet/keras_efficient_kan): A full keras implementation of efficient_kan tested with tensorflow, pytorch and jax backend | ![Github stars](https://img.shields.io/github/stars/remigenet/keras_efficient_kan.svg)
 - [Quantum KAN](https://github.com/wtroy2/Quantum-KAN): KANs optimizable through quantum annealing | ![Github stars](https://img.shields.io/github/stars/wtroy2/Quantum-KAN.svg)
-- [KAN: Kolmogorov–Arnold Networks in MLX for Apple silicon](https://github.com/Goekdeniz-Guelmez/mlx-kan) : KAN (Kolmogorov–Arnold Networks) in the MLX framework
+- [KAN: Kolmogorov–Arnold Networks in MLX for Apple silicon](https://github.com/Goekdeniz-Guelmez/mlx-kan) : KAN (Kolmogorov–Arnold Networks) in the MLX framework| ![Github stars](https://img.shields.io/github/stars/Goekdeniz-Guelmez/mlx-kan.svg)
  
 ### ConvKANs
 
