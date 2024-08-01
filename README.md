@@ -61,6 +61,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Sparks of Quantum Advantage and Rapid Retraining in Machine Learning](https://doi.org/10.48550/arXiv.2407.16020) | [code](https://github.com/wtroy2/Quantum-KAN) | ![Github stars](https://img.shields.io/github/stars/wtroy2/Quantum-KAN.svg)
 - [Adaptive Training of Grid-Dependent Physics-Informed Kolmogorov-Arnold Networks](https://doi.org/10.48550/arXiv.2407.17611) | [code](https://github.com/srigas/jaxKAN) | ![Github stars](https://img.shields.io/github/stars/srigas/jaxkan.svg)
 - [Gaussian Process Kolmogorov-Arnold Networks](https://arxiv.org/abs/2407.18397)
+- [Kolmogorov--Arnold networks in molecular dynamics](https://arxiv.org/abs/2407.17774)
   
 ### Theorem
 
@@ -138,6 +139,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Julia-Wav-KAN](https://github.com/PritRaj1/Julia-Wav-KAN) : A Julia implementation of Wavelet Kolmogorov-Arnold Networks. ｜ ![Github stars](https://img.shields.io/github/stars/PritRaj1/Julia-Wav-KAN.svg)
 - [Building a Kolmogorov-Arnold Neural Network in C](https://rabmcmenemy.medium.com/building-a-kolmogorov-arnold-neural-network-in-c-fac89f2b2330)
 - [C# and C++ implementations, benchmarks, tutorials](http://openkan.org/)
+- [FluxKAN.jl](https://github.com/cometscome/FluxKAN.jl) : An easy to use Flux implementation of the Kolmogorov Arnold Network. This is a Julia version of TorchKAN.
 
 
 
