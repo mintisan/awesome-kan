@@ -169,6 +169,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [CL-KAN-ViT](https://github.com/saeedahmadicp/KAN-CL-ViT) :  Kolmogorov-Arnold Network (KAN) based vision transformer for class-based continual learning to mitigate catastrophic forgetting | ![Github stars](https://img.shields.io/github/stars/saeedahmadicp/KAN-CL-ViT.svg)
 - [KAN-Autoencoder](https://github.com/SekiroRong/KAN-AutoEncoder) : KAE KAN-based AutoEncoder (AE, VAE, VQ-VAE, RVQ, etc.) | ![Github stars](https://img.shields.io/github/stars/SekiroRong/KAN-AutoEncoder.svg)
 - [OpenKAN](http://openkan.org/)
+- [KAN-DQN](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird) : An experiment where KAN replaces MLP in Deep Q-Network to play Flappy Bird as a Reinforcement Learning agent. | ![GitHub Repo stars](https://img.shields.io/github/stars/andythetechnerd03/KAN-It-Play-Flappy-Bird)
 
 
 
