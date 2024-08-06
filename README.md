@@ -177,7 +177,9 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Discussion
 
-- [KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
+- HN-[KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
+- HN-[	A new type of neural network is more interpretable](https://news.ycombinator.com/item?id=41162676)
+- HN-[Trying Kolmogorov-Arnold Networks in Practice](https://news.ycombinator.com/item?id=40855028)
 - [**Can Kolmogorov–Arnold Networks (KAN) beat MLPs?**](https://pub.towardsai.net/can-kolmogorov-arnold-networks-kan-beat-mlps-060fc34da9ce)
 - [Twitter thinks they killed MLPs. But what are Kolmogorov-Arnold Networks?](https://medium.com/@mikeyoung_97230/twitter-thinks-they-killed-mlps-but-what-are-kolmogorov-arnold-networks-b1ec6131891e)
 - [[D] Kolmogorov-Arnold Network is just an MLP](https://www.reddit.com/r/MachineLearning/comments/1clcu5i/d_kolmogorovarnold_network_is_just_an_mlp/)
