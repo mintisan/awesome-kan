@@ -65,6 +65,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Adaptive Training of Grid-Dependent Physics-Informed Kolmogorov-Arnold Networks](https://doi.org/10.48550/arXiv.2407.17611) | [code](https://github.com/srigas/jaxKAN) | ![Github stars](https://img.shields.io/github/stars/srigas/jaxkan.svg)
 - [Gaussian Process Kolmogorov-Arnold Networks](https://arxiv.org/abs/2407.18397)
 - [Kolmogorov--Arnold networks in molecular dynamics](https://arxiv.org/abs/2407.17774)
+- [Kolmogorov-Arnold Network for Online Reinforcement Learning](https://arxiv.org/abs/2408.04841v1)  [code](https://github.com/victorkich/Kolmogorov-PPO) | ![Github stars](https://img.shields.io/github/stars/victorkich/Kolmogorov-PPO.svg)
   
 ### Theorem
 
