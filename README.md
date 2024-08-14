@@ -66,6 +66,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Gaussian Process Kolmogorov-Arnold Networks](https://arxiv.org/abs/2407.18397)
 - [Kolmogorov--Arnold networks in molecular dynamics](https://arxiv.org/abs/2407.17774)
 - [Kolmogorov-Arnold Network for Online Reinforcement Learning](https://arxiv.org/abs/2408.04841v1)  [code](https://github.com/victorkich/Kolmogorov-PPO) | ![Github stars](https://img.shields.io/github/stars/victorkich/Kolmogorov-PPO.svg)
+- [TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling](https://arxiv.org/abs/2408.05705) [code](https://github.com/lcbkmm/tc-kanrecon) | ![Github stars](https://img.shields.io/github/stars/lcbkmm/tc-kanrecon.svg)
   
 ### Theorem
 
