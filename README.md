@@ -70,7 +70,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling](https://arxiv.org/abs/2408.05705) [code](https://github.com/lcbkmm/tc-kanrecon) | ![Github stars](https://img.shields.io/github/stars/lcbkmm/tc-kanrecon.svg)
 - [Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability](https://arxiv.org/abs/2406.02496)
 - [KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?](https://arxiv.org/pdf/2408.11306) | [code](https://github.com/2448845600/KAN4TSF) | ![Github stars](https://img.shields.io/github/stars/2448845600/KAN4TSF.svg)
-- [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) | [Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
+- [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
   
 ### Theorem
 
