@@ -71,6 +71,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling](https://arxiv.org/abs/2408.05705) [code](https://github.com/lcbkmm/tc-kanrecon) | ![Github stars](https://img.shields.io/github/stars/lcbkmm/tc-kanrecon.svg)
 - [Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability](https://arxiv.org/abs/2406.02496)
 - [KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?](https://arxiv.org/pdf/2408.11306) | [code](https://github.com/2448845600/KAN4TSF) | ![Github stars](https://img.shields.io/github/stars/2448845600/KAN4TSF.svg)
+- [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 - [FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763) | [code](https://github.com/hoangthangta/FC_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/FC_KAN.svg)
   
 ### Theorem
@@ -180,7 +181,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN-Autoencoder](https://github.com/SekiroRong/KAN-AutoEncoder) : KAE KAN-based AutoEncoder (AE, VAE, VQ-VAE, RVQ, etc.) | ![Github stars](https://img.shields.io/github/stars/SekiroRong/KAN-AutoEncoder.svg)
 - [OpenKAN](http://openkan.org/)
 - [KAN-DQN](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird) : An experiment where KAN replaces MLP in Deep Q-Network to play Flappy Bird as a Reinforcement Learning agent. | ![GitHub Repo stars](https://img.shields.io/github/stars/andythetechnerd03/KAN-It-Play-Flappy-Bird)
-
+- [Neuromancer](https://github.com/pnnl/neuromancer) : Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations (NeuroMANCER) is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems, physics-informed system identification, and parametric model-based optimal control. It includes, among other architectures, KANs and finite basis KANs (FBKANs). | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 
 
 ## Discussion
@@ -215,6 +216,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/): Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
 - [KAN-Continual_Learning_tests](https://github.com/MrPio/KAN-Continual_Learning_tests) : Collection of tests performed during the study of the new Kolmogorov-Arnold Neural Networks (KAN) ｜ ![Github stars](https://img.shields.io/github/stars/MrPio/KAN-Continual_Learning_tests.svg)
 - [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
+- [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs): Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
 
 ### YouTube
 
