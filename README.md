@@ -75,7 +75,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?](https://arxiv.org/pdf/2408.11306) | [code](https://github.com/2448845600/KAN4TSF) | ![Github stars](https://img.shields.io/github/stars/2448845600/KAN4TSF.svg)
 - [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 - [FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763) | [code](https://github.com/hoangthangta/FC_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/FC_KAN.svg)
-  
+- [KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems](https://arxiv.org/abs/2409.06649v1)
+
 ### Theorem
 
 - 1957-[On the representation of continuous functions of several variables by superpositions of continuous functions of a smaller number of variables](https://cs.uwaterloo.ca/~y328yu/classics/Kolmogorov57.pdf) : The original Kolmogorov Arnold paper
