@@ -78,6 +78,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763) | [code](https://github.com/hoangthangta/FC_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/FC_KAN.svg)
 - [KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems](https://arxiv.org/abs/2409.06649v1)
 - [GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs](https://arxiv.org/abs/2408.01018)
+- [A Gated Residual Kolmogorov-Arnold Networks for Mixtures of Experts](https://arxiv.org/abs/2409.15161)
 
 ### Theorem
 
@@ -120,6 +121,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TKAT](https://github.com/remigenet/TKAT): Temporal Kolmogorov-Arnold Transformer Tensorflow 2.x model implementation | ![Github stars](https://img.shields.io/github/stars/remigenet/tkat.svg)
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 - [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/): Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
+- [KAMoE](https://github.com/remigenet/kamoe): A Gated Residual Kolmogorov-Arnold Networks for Mixtures of Experts | ![Github stars](https://img.shields.io/github/stars/remigenet/kamoe.svg)
 
 ### Library-based
 
