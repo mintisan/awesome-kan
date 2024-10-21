@@ -78,6 +78,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763) | [code](https://github.com/hoangthangta/FC_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/FC_KAN.svg)
 - [KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems](https://arxiv.org/abs/2409.06649v1)
 - [GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs](https://arxiv.org/abs/2408.01018)
+- [A Gated Residual Kolmogorov-Arnold Networks for Mixtures of Experts](https://arxiv.org/abs/2409.15161) | [KAMoE-code](https://github.com/remigenet/kamoe) | ![Github stars](https://img.shields.io/github/stars/remigenet/kamoe.svg)
 - [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.09323)  | [Single-Layer Learnable Activation for Implicit Neural Representation (SL2A-INR)](https://arxiv.org/abs/2409.10836) 
 
 
