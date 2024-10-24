@@ -81,7 +81,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Gated Residual Kolmogorov-Arnold Networks for Mixtures of Experts](https://arxiv.org/abs/2409.15161) | [KAMoE-code](https://github.com/remigenet/kamoe) | ![Github stars](https://img.shields.io/github/stars/remigenet/kamoe.svg)
 - [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.09323)  | [Single-Layer Learnable Activation for Implicit Neural Representation (SL2A-INR)](https://arxiv.org/abs/2409.10836) 
 - [On the expressiveness and spectral bias of KANs](https://arxiv.org/abs/2410.01803) -  KANs can represent MLPs of similar size. While MLPs can represent KANs, the number of parameters in an MLP increases significantly with KAN grid size. In addition, KANs have a lower spectral bias for low-frequency patterns.
-- [CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems](https://arxiv.org/abs/2409.05878) 
+- [CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems](https://arxiv.org/abs/2409.05878)  | [code](https://github.com/jindeok/CF-KAN) | ![Github stars](https://img.shields.io/github/stars/jindeok/CF-KAN.svg)
 
 
 ### Theorem
