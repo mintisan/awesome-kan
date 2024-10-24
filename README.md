@@ -81,6 +81,9 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Gated Residual Kolmogorov-Arnold Networks for Mixtures of Experts](https://arxiv.org/abs/2409.15161) | [KAMoE-code](https://github.com/remigenet/kamoe) | ![Github stars](https://img.shields.io/github/stars/remigenet/kamoe.svg)
 - [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.09323)  | [Single-Layer Learnable Activation for Implicit Neural Representation (SL2A-INR)](https://arxiv.org/abs/2409.10836) 
 - [On the expressiveness and spectral bias of KANs](https://arxiv.org/abs/2410.01803) -  KANs can represent MLPs of similar size. While MLPs can represent KANs, the number of parameters in an MLP increases significantly with KAN grid size. In addition, KANs have a lower spectral bias for low-frequency patterns.
+- [P1-KAN an effective Kolmogorov Arnold Network for function approximation](https://arxiv.org/abs/2410.03801) :  A new Kolmogorov-Arnold network is proposed to approximate potentially irregular functions in high dimension.
+We show that it outperforms multilayer perceptrons in terms of accuracy and converges faster. 
+We also compare it with several proposed KAN networks: the original spline-based KAN network appears to be more effective for smooth functions, while the P1-KAN network is more effective for irregular functions.| [code](https://fime-lab.org/warin-xavier/) |
 
 
 ### Theorem
