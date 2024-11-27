@@ -84,7 +84,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [P1-KAN an effective Kolmogorov Arnold Network for function approximation](https://arxiv.org/abs/2410.03801) | [code](https://fime-lab.org/warin-xavier/)
 - [CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems](https://arxiv.org/abs/2409.05878)  | [code](https://github.com/jindeok/CF-KAN) | ![Github stars](https://img.shields.io/github/stars/jindeok/CF-KAN.svg)
 - [KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.00278)
-
+- [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078): a recent survey which also discusses challenges and opportunities for KAN research, especially for scalability, computational efficiency, and robustness
 
 ### Theorem
 
@@ -230,6 +230,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN-Continual_Learning_tests](https://github.com/MrPio/KAN-Continual_Learning_tests) : Collection of tests performed during the study of the new Kolmogorov-Arnold Neural Networks (KAN) ｜ ![Github stars](https://img.shields.io/github/stars/MrPio/KAN-Continual_Learning_tests.svg)
 - [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
 - [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs): Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
+- [Kolmogorov-Arnold Networks (KANs): A Deep Dive into Next-Gen Neural Networks](https://github.com/SalvatoreRa/artificial-intelligence-articles/blob/main/articles/deep_dive_KAN.md): A detailed introduction on KANs, comparison with MLP and applications
 
 ### YouTube
 
