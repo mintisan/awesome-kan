@@ -74,6 +74,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling](https://arxiv.org/abs/2408.05705) [code](https://github.com/lcbkmm/tc-kanrecon) | ![Github stars](https://img.shields.io/github/stars/lcbkmm/tc-kanrecon.svg)
 - [Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability](https://arxiv.org/abs/2406.02496)
 - [KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?](https://arxiv.org/pdf/2408.11306) | [code](https://github.com/2448845600/KAN4TSF) | ![Github stars](https://img.shields.io/github/stars/2448845600/KAN4TSF.svg)
+- [On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective](https://arxiv.org/abs/2408.13809)
 - [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662) | [code](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs) | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
 - [FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763) | [code](https://github.com/hoangthangta/FC_KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/FC_KAN.svg)
 - [KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems](https://arxiv.org/abs/2409.06649v1)
