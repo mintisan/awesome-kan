@@ -80,7 +80,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems](https://arxiv.org/abs/2409.06649v1)
 - [GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs](https://arxiv.org/abs/2408.01018)
 - [A Gated Residual Kolmogorov-Arnold Networks for Mixtures of Experts](https://arxiv.org/abs/2409.15161) | [KAMoE-code](https://github.com/remigenet/kamoe) | ![Github stars](https://img.shields.io/github/stars/remigenet/kamoe.svg)
-- [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.09323)  | [Single-Layer Learnable Activation for Implicit Neural Representation (SL2A-INR)](https://arxiv.org/abs/2409.10836) 
+- [Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.09323) [code](https://github.com/Ali-Meh619/FKAN) | ![Github stars]
+- [Single-Layer Learnable Activation for Implicit Neural Representation (SL2A-INR)](https://arxiv.org/abs/2409.10836) 
 - [On the expressiveness and spectral bias of KANs](https://arxiv.org/abs/2410.01803) -  KANs can represent MLPs of similar size. While MLPs can represent KANs, the number of parameters in an MLP increases significantly with KAN grid size. In addition, KANs have a lower spectral bias for low-frequency patterns.
 - [P1-KAN an effective Kolmogorov Arnold Network for function approximation](https://arxiv.org/abs/2410.03801) | [code](https://fime-lab.org/warin-xavier/)
 - [CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems](https://arxiv.org/abs/2409.05878)  | [code](https://github.com/jindeok/CF-KAN) | ![Github stars](https://img.shields.io/github/stars/jindeok/CF-KAN.svg)
