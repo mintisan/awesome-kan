@@ -166,6 +166,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Building a Kolmogorov-Arnold Neural Network in C](https://rabmcmenemy.medium.com/building-a-kolmogorov-arnold-neural-network-in-c-fac89f2b2330)
 - [C# and C++ implementations, benchmarks, tutorials](http://openkan.org/)
 - [FluxKAN.jl](https://github.com/cometscome/FluxKAN.jl) : An easy to use Flux implementation of the Kolmogorov Arnold Network. This is a Julia version of TorchKAN.
+- [ikant](https://github.com/huytrinhm/ikant) : A simple C++ implementation and visualization of Kolmogorov-Arnold Networks.
 
 
 
