@@ -87,6 +87,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems](https://arxiv.org/abs/2409.05878)  | [code](https://github.com/jindeok/CF-KAN) | ![Github stars](https://img.shields.io/github/stars/jindeok/CF-KAN.svg)
 - [KAN-AD: Time Series Anomaly Detection with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2411.00278)
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078): a recent survey which also discusses challenges and opportunities for KAN research, especially for scalability, computational efficiency, and robustness
+- [HyperKAN: Kolmogorov–Arnold Networks Make Hyperspectral Image Classifiers Smarter](https://www.mdpi.com/1424-8220/24/23/7683) | [code](https://github.com/f-neumann77/HyperKAN) | ![Github stars](https://img.shields.io/github/stars/f-neumann77/HyperKAN.svg) - a comprehensive study of replacing MLP with KAN for hyperspectral image classification
 
 ### Theorem
 
