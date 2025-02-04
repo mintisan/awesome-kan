@@ -89,6 +89,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078): a recent survey which also discusses challenges and opportunities for KAN research, especially for scalability, computational efficiency, and robustness
 - [HyperKAN: Kolmogorov–Arnold Networks Make Hyperspectral Image Classifiers Smarter](https://www.mdpi.com/1424-8220/24/23/7683) | [code](https://github.com/f-neumann77/HyperKAN) | ![Github stars](https://img.shields.io/github/stars/f-neumann77/HyperKAN.svg) - a comprehensive study of replacing MLP with KAN for hyperspectral image classification
 - [PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.07032) | [code](https://github.com/hoangthangta/All-KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/All-KAN.svg) - contain methods for parameter reduction in Kolmogorov-Arnold Networks
+- [Learnable polynomial, trigonometric, and tropical activations](https://arxiv.org/abs/2502.01247) We introduce a novel variance-preserving initialization for learnable activations by using orthogonal functions, simplifying the computation of 2nd-order moments, and demonstrate improved performance in ImageNet classification with ConvNeXt and next-token prediction with GPT-2 on OpenWebText.| [code](https://github.com/K-H-Ismail/torchortho) ![Github starts](https://img.shields.io/github/stars/K-H-Ismail/torchortho.svg)
 
 ### Theorem
 
