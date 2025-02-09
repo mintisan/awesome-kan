@@ -66,6 +66,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A deep machine learning algorithm for construction of the Kolmogorov–Arnold representation](https://www.sciencedirect.com/science/article/abs/pii/S0952197620303742))
 - [Inferring turbulent velocity and temperature fields and their statistics from Lagrangian velocity measurements using physics-informed Kolmogorov-Arnold Networks](https://arxiv.org/abs/2407.15727)
 - [A Comprehensive Survey on Kolmogorov Arnold Networks (KAN)](https://arxiv.org/abs/2407.11075)
+- [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Sparks of Quantum Advantage and Rapid Retraining in Machine Learning](https://doi.org/10.48550/arXiv.2407.16020) | [code](https://github.com/wtroy2/Quantum-KAN) | ![Github stars](https://img.shields.io/github/stars/wtroy2/Quantum-KAN.svg)
 - [Adaptive Training of Grid-Dependent Physics-Informed Kolmogorov-Arnold Networks](https://doi.org/10.48550/arXiv.2407.17611) | [code](https://github.com/srigas/jaxKAN) | ![Github stars](https://img.shields.io/github/stars/srigas/jaxkan.svg)
 - [Gaussian Process Kolmogorov-Arnold Networks](https://arxiv.org/abs/2407.18397)
