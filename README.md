@@ -92,6 +92,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [HKAN: Hierarchical Kolmogorov-Arnold Network without Backpropagation](https://arxiv.org/abs/2501.18199): [code](https://github.com/rodakt/hkan) | ![Github stars](https://img.shields.io/github/stars/rodakt/hkan.svg)
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
+- [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
 
 ### Theorem
 
