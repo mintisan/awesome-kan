@@ -136,6 +136,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 - [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/): Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
 - [HiPPO-KAN: Efficient KAN Model for Time Series Analysis](https://arxiv.org/abs/2410.14939)
+- [OIKAN: Optimized Interpretable Kolmogorov-Arnold Networks](https://github.com/silvermete0r/oikan)
 
 ### Library-based
 
