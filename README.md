@@ -138,6 +138,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/): Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
 - [HiPPO-KAN: Efficient KAN Model for Time Series Analysis](https://arxiv.org/abs/2410.14939)
 - [OIKAN](https://github.com/silvermete0r/oikan): Optimized Interpretable Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
+- [timeKAN](https://github.com/SamerMakni/timekan):  Kolmogorov-Arnold Networks with recurrent architectures | ![Github stars](https://img.shields.io/github/stars/SamerMakni/timekan)
 
 ### Library-based
 
