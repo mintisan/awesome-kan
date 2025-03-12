@@ -94,6 +94,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
+- [AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning](https://arxiv.org/abs/2503.06112) | [code](https://github.com/hoangthangta/All-KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/All-KAN.svg) - expand ReLU-KAN with various activations and their function combinations
 
 ### Theorem
 
