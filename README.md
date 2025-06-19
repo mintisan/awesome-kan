@@ -94,7 +94,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
-- [State-Space Kolmogorov Arnold Networks (SS-KAN) for Interpretable Nonlinear System Identification]([https://arxiv.org/abs/2502.06018](https://doi.org/10.1109/LCSYS.2025.3578019) : While accurate, black-box system identification models lack interpretability of the underlying system dynamics. This paper proposes State-Space Kolmogorov-Arnold Networks (SS-KAN) to address this challenge by integrating Kolmogorov-Arnold Networks within a state-space framework. Code available upon request!
+- [State-Space Kolmogorov Arnold Networks (SS-KAN) for Interpretable Nonlinear System Identification](https://doi.org/10.1109/LCSYS.2025.3578019) : Published in IEEE Control Systems Letters. While accurate, black-box system identification models lack interpretability of the underlying system dynamics. This paper proposes State-Space Kolmogorov-Arnold Networks (SS-KAN) to address this challenge by integrating Kolmogorov-Arnold Networks within a state-space framework. 
 
 
 ### Theorem
