@@ -90,12 +90,16 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078): a recent survey which also discusses challenges and opportunities for KAN research, especially for scalability, computational efficiency, and robustness
 - [HyperKAN: Kolmogorov–Arnold Networks Make Hyperspectral Image Classifiers Smarter](https://www.mdpi.com/1424-8220/24/23/7683) | [code](https://github.com/f-neumann77/HyperKAN) | ![Github stars](https://img.shields.io/github/stars/f-neumann77/HyperKAN.svg) - a comprehensive study of replacing MLP with KAN for hyperspectral image classification
 - [PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.07032) | [code](https://github.com/hoangthangta/All-KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/All-KAN.svg) - contain methods for parameter reduction in Kolmogorov-Arnold Networks
+- [Learnable polynomial, trigonometric, and tropical activations](https://arxiv.org/abs/2502.01247) We introduce a novel variance-preserving initialization for learnable activations by using orthogonal functions, simplifying the computation of 2nd-order moments, and demonstrate improved performance in ImageNet classification with ConvNeXt and next-token prediction with GPT-2 on OpenWebText.| [code](https://github.com/K-H-Ismail/torchortho) ![Github starts](https://img.shields.io/github/stars/K-H-Ismail/torchortho.svg)
 - [HKAN: Hierarchical Kolmogorov-Arnold Network without Backpropagation](https://arxiv.org/abs/2501.18199): [code](https://github.com/rodakt/hkan) | ![Github stars](https://img.shields.io/github/stars/rodakt/hkan.svg)
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
 - [State-Space Kolmogorov Arnold Networks (SS-KAN) for Interpretable Nonlinear System Identification](https://doi.org/10.1109/LCSYS.2025.3578019) : Published in IEEE Control Systems Letters. While accurate, black-box system identification models lack interpretability of the underlying system dynamics. This paper proposes State-Space Kolmogorov-Arnold Networks (SS-KAN) to address this challenge by integrating Kolmogorov-Arnold Networks within a state-space framework. 
-
+- [FourierKAN outperforms MLP on Text Classification Head Fine-tuning](https://arxiv.org/abs/2408.08803) | [code](https://github.com/abdalimran/FR-KAN-Text-Classification) | ![Github stars](https://img.shields.io/github/stars/abdalimran/FR-KAN-Text-Classification.svg)
+- [AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning](https://arxiv.org/abs/2503.06112) | [code](https://github.com/hoangthangta/All-KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/All-KAN.svg) - expand ReLU-KAN with various activations and their function combinations
+- [MatrixKAN: Parallelized Kolmogorov-Arnold Network](https://arxiv.org/abs/2502.07176) : MatrixKAN is a novel KAN optimization that parallelizes B-spline calculations with matrix representation and operations, thus significantly improving effective computation time for models utilizing high-degree B-splines. This paper demonstrates the superior scaling of MatrixKAN's computation time relative to B-spline degree and speedups of approximately 40x relative to KAN, with significant additional speedup potential for larger datasets or higher spline degrees. | [code](https://github.com/OSU-STARLAB/MatrixKAN) | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg) 
+- [CVKAN: Complex-Valued Kolmogorov-Arnold Networks](https://arxiv.org/abs/2502.02417) | [code](https://github.com/M-Wolff/CVKAN) | ![Github stars](https://img.shields.io/github/stars/M-Wolff/CVKAN.svg) - Transferred KANs into the complex-valued domain using Radial Basis Functions and added tools for improved Plotting and Interpretability
 
 ### Theorem
 
@@ -118,7 +122,6 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [FCN-KAN](https://github.com/Zhangyanbo/FCN-KAN) : Kolmogorov–Arnold Networks with modified activation (using fully connected network to represent the activation) ｜ ![Github stars](https://img.shields.io/github/stars/Zhangyanbo/FCN-KAN.svg)
 - [X-KANeRF](https://github.com/lif314/X-KANeRF) : KAN based NeRF with various basis functions like B-Splines, Fourier, Radial Basis Functions, Polynomials, etc ｜ ![Github stars](https://img.shields.io/github/stars/lif314/X-KANeRF.svg)
 - [Large Kolmogorov-Arnold Networks](https://github.com/Indoxer/LKAN) : Variations of Kolmogorov-Arnold Networks (including CUDA-supported KAN convolutions) ｜ ![Github stars](https://img.shields.io/github/stars/Indoxer/LKAN.svg)
-- [xKAN](https://github.com/mlsquare/xKAN) : Kolmogorov-Arnold Networks with various basis functions like B-Splines, Fourier, Chebyshev, Wavelets etc ｜ ![Github stars](https://img.shields.io/github/stars/mlsquare/xKAN.svg)
 - [JacobiKAN](https://github.com/SpaceLearner/JacobiKAN) : Kolmogorov-Arnold Networks (KAN) using Jacobi polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/SpaceLearner/JacobiKAN.svg)
 - [GraphKAN](https://github.com/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks) : Implementation of Graph Neural Network version of Kolmogorov Arnold Networks (GraphKAN) ｜ ![Github stars](https://img.shields.io/github/stars/WillHua127/GraphKAN-Graph-Kolmogorov-Arnold-Networks.svg)
 - [OrthogPolyKAN](https://github.com/Boris-73-TA/OrthogPolyKANs) : Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines. ｜ ![Github stars](https://img.shields.io/github/stars/Boris-73-TA/OrthogPolyKANs.svg)
@@ -139,7 +142,10 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 - [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/): Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
 - [HiPPO-KAN: Efficient KAN Model for Time Series Analysis](https://arxiv.org/abs/2410.14939)
-- [OIKAN](https://github.com/silvermete0r/oikan): Optimized Interpretable Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
+- [OIKAN](https://github.com/silvermete0r/oikan): Neuro-Symbolic ML for Scientific Discovery (not a direct implementation of KANs but a KART-inspired alternative to make more efficient and accurate Neuro-Symbolic ML) | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
+- [timeKAN](https://github.com/SamerMakni/timekan):  Kolmogorov-Arnold Networks with recurrent architectures | ![Github stars](https://img.shields.io/github/stars/SamerMakni/timekan)
+- [MatrixKAN](https://github.com/OSU-STARLAB/MatrixKAN): MatrixKAN: An optimized B-spline-based KAN implementation with superior effective computation time for higher spline degrees and larger datasets | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg)
+
 
 ### Library-based
 
@@ -244,6 +250,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
 - [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs): Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
 - [Kolmogorov-Arnold Networks (KANs): A Deep Dive into Next-Gen Neural Networks](https://github.com/SalvatoreRa/artificial-intelligence-articles/blob/main/articles/deep_dive_KAN.md): A detailed introduction on KANs, comparison with MLP and applications
+- [Using KAN to make quantum devices](https://lfl-lab.github.io/SQuADDS/source/tutorials/Tutorial-9_Learing_the_Inverse_Design_Map.html): A tutorial to infer quantum device geometry from Hamiltonian parameters 
 
 ### YouTube
 
