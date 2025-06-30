@@ -41,6 +41,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis](https://arxiv.org/abs/2409.04290) : CoxKAN is a novel framework for survival analysis based on Kolmogorov-Arnold Networks, which combines both interpretability and high performance. CoxKAN outperforms traditional models like the Cox proportional hazards model and rivals deep learning-based models, but with the advantage of interpretability, making it more useful in medical settings where understanding the underlying risk factors and relationships is essential. We find that CoxKAN extracts complex interactions between predictor variables and identifies the precise effect of important biomarkers on patient survival. | [code](https://github.com/knottwill/coxkan) ｜ ![Github stars](https://img.shields.io/github/stars/knottwill/coxkan.svg)
 - [RKAN: Residual Kolmogorov-Arnold Network](https://arxiv.org/abs/2410.05500) : Residual Kolmogorov-Arnold Network (RKAN) is designed to enhance the performance of classic CNNs by incorporating RKAN blocks into existing architectures. | [code](https://github.com/withray/residualKAN) ![GitHub stars](https://img.shields.io/github/stars/withray/residualKAN.svg)
 - [Kolmogorov-Arnold Transformer](https://arxiv.org/abs/2409.10594) KAN was strong but faced scalability issues. KAT tackle this with 3 simple tricks. By combining KAN with Transformers, we've built a much stronger and more scalable model. | [code](https://github.com/Adamdad/kat) ![Github starts](https://img.shields.io/github/stars/adamdad/kat.svg)
+- [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018) : This paper introduces Kolmogorov-Arnold Fourier Networks (KAF), a novel type of neural network that combines the Kolmogorov-Arnold representation theorem with Fourier series. KAF can be regarded as an extension of KAN, where the activation function is substituted with a combination of Fourier series and traditional activation functions. This paper evaluated the performance of simple CV, NLP, audio, and ML tasks on Kanbefair, and conducted experiments on various tasks such as ViT, GPT2, and PDE solving.Achieve good performance on most tasks.| [code](https://github.com/kolmogorovArnoldFourierNetwork/KAF) ![GitHub stars](https://img.shields.io/github/stars/kolmogorovArnoldFourierNetwork/KAF.svg)
 - [Effective Integration of KAN for Keyword Spotting](https://arxiv.org/abs/2409.08605)
 - [Chebyshev Polynomial-Based Kolmogorov-Arnold Networks](https://arxiv.org/html/2405.07200)
 - [Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving PDEs based on Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.11045) | [code](https://github.com/yizheng-wang/research-on-solving-partial-differential-equations-of-solid-mechanics-based-on-pinn) ｜ ![Github stars](https://img.shields.io/github/stars/yizheng-wang/research-on-solving-partial-differential-equations-of-solid-mechanics-based-on-pinn.svg)
@@ -90,12 +91,16 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [HyperKAN: Kolmogorov–Arnold Networks Make Hyperspectral Image Classifiers Smarter](https://www.mdpi.com/1424-8220/24/23/7683) | [code](https://github.com/f-neumann77/HyperKAN) | ![Github stars](https://img.shields.io/github/stars/f-neumann77/HyperKAN.svg) - a comprehensive study of replacing MLP with KAN for hyperspectral image classification
 - [PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.07032) | [code](https://github.com/hoangthangta/All-KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/All-KAN.svg) - contain methods for parameter reduction in Kolmogorov-Arnold Networks
 - [Learnable polynomial, trigonometric, and tropical activations](https://arxiv.org/abs/2502.01247) We introduce a novel variance-preserving initialization for learnable activations by using orthogonal functions, simplifying the computation of 2nd-order moments, and demonstrate improved performance in ImageNet classification with ConvNeXt and next-token prediction with GPT-2 on OpenWebText.| [code](https://github.com/K-H-Ismail/torchortho) ![Github starts](https://img.shields.io/github/stars/K-H-Ismail/torchortho.svg)
+- [HKAN: Hierarchical Kolmogorov-Arnold Network without Backpropagation](https://arxiv.org/abs/2501.18199): [code](https://github.com/rodakt/hkan) | ![Github stars](https://img.shields.io/github/stars/rodakt/hkan.svg)
+- [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
+- [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
+- [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
 
 ### Theorem
 
 - 1957-[On the representation of continuous functions of several variables by superpositions of continuous functions of a smaller number of variables](https://cs.uwaterloo.ca/~y328yu/classics/Kolmogorov57.pdf) : The original Kolmogorov Arnold paper
 - 1957-[On functions of three variables](https://cs.uwaterloo.ca/~y328yu/classics/Arnold57.pdf)
-- 2009-[On a constructive proof of Kolmogorov’s superposition theorem](https://ins.uni-bonn.de/media/public/publication-media/remonkoe.pdf?pk=82)
+- 2009-[On a constructive proof of Kolmogorov's superposition theorem](https://ins.uni-bonn.de/media/public/publication-media/remonkoe.pdf?pk=82)
 - 2021-[The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 - 2021-[The Kolmogorov Superposition Theorem can Break the Curse of Dimension When Approximating High Dimensional Functions](https://arxiv.org/abs/2112.09963)
 
@@ -133,6 +138,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [SigKAN](https://github.com/remigenet/SigKAN): Path Signature-Weighted Kolmogorov-Arnold Networks tensorflow 2.x layer implementations, based on iisignature | ![Github stars](https://img.shields.io/github/stars/remigenet/sigkan.svg)
 - [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/): Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
 - [HiPPO-KAN: Efficient KAN Model for Time Series Analysis](https://arxiv.org/abs/2410.14939)
+- [OIKAN](https://github.com/silvermete0r/oikan): Optimized Interpretable Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
 
 ### Library-based
 
