@@ -95,6 +95,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
+- [MatrixKAN: Parallelized Kolmogorov-Arnold Network](https://arxiv.org/abs/2502.07176) : MatrixKAN is a novel KAN optimization that parallelizes B-spline calculations with matrix representation and operations, thus significantly improving effective computation time for models utilizing high-degree B-splines. This paper demonstrates the superior scaling of MatrixKAN's computation time relative to B-spline degree and speedups of approximately 40x relative to KAN, with significant additional speedup potential for larger datasets or higher spline degrees. | [code](https://github.com/OSU-STARLAB/MatrixKAN) | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg) 
 - [CVKAN: Complex-Valued Kolmogorov-Arnold Networks](https://arxiv.org/abs/2502.02417) | [code](https://github.com/M-Wolff/CVKAN) | ![Github stars](https://img.shields.io/github/stars/M-Wolff/CVKAN.svg) - Transferred KANs into the complex-valued domain using Radial Basis Functions and added tools for improved Plotting and Interpretability
 
 ### Theorem
@@ -140,6 +141,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/): Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
 - [HiPPO-KAN: Efficient KAN Model for Time Series Analysis](https://arxiv.org/abs/2410.14939)
 - [OIKAN](https://github.com/silvermete0r/oikan): Optimized Interpretable Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
+- [MatrixKAN](https://github.com/OSU-STARLAB/MatrixKAN): MatrixKAN: An optimized B-spline-based KAN implementation with superior effective computation time for higher spline degrees and larger datasets | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg)
 
 ### Library-based
 
