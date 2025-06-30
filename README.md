@@ -249,6 +249,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
 - [Neuromancer FBKAN tutorials](https://github.com/pnnl/neuromancer/tree/feature/fbkans/examples/KANs): Examples of usage of finite basis KANs, easily accessible via Google Colab notebooks.
 - [Kolmogorov-Arnold Networks (KANs): A Deep Dive into Next-Gen Neural Networks](https://github.com/SalvatoreRa/artificial-intelligence-articles/blob/main/articles/deep_dive_KAN.md): A detailed introduction on KANs, comparison with MLP and applications
+- [Using KAN to make quantum devices](https://lfl-lab.github.io/SQuADDS/source/tutorials/Tutorial-9_Learing_the_Inverse_Design_Map.html): A tutorial to infer quantum device geometry from Hamiltonian parameters 
 
 ### YouTube
 
