@@ -90,10 +90,15 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078): a recent survey which also discusses challenges and opportunities for KAN research, especially for scalability, computational efficiency, and robustness
 - [HyperKAN: Kolmogorov–Arnold Networks Make Hyperspectral Image Classifiers Smarter](https://www.mdpi.com/1424-8220/24/23/7683) | [code](https://github.com/f-neumann77/HyperKAN) | ![Github stars](https://img.shields.io/github/stars/f-neumann77/HyperKAN.svg) - a comprehensive study of replacing MLP with KAN for hyperspectral image classification
 - [PRKAN: Parameter-Reduced Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.07032) | [code](https://github.com/hoangthangta/All-KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/All-KAN.svg) - contain methods for parameter reduction in Kolmogorov-Arnold Networks
+- [Learnable polynomial, trigonometric, and tropical activations](https://arxiv.org/abs/2502.01247) We introduce a novel variance-preserving initialization for learnable activations by using orthogonal functions, simplifying the computation of 2nd-order moments, and demonstrate improved performance in ImageNet classification with ConvNeXt and next-token prediction with GPT-2 on OpenWebText.| [code](https://github.com/K-H-Ismail/torchortho) ![Github starts](https://img.shields.io/github/stars/K-H-Ismail/torchortho.svg)
 - [HKAN: Hierarchical Kolmogorov-Arnold Network without Backpropagation](https://arxiv.org/abs/2501.18199): [code](https://github.com/rodakt/hkan) | ![Github stars](https://img.shields.io/github/stars/rodakt/hkan.svg)
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
+- [FourierKAN outperforms MLP on Text Classification Head Fine-tuning](https://arxiv.org/abs/2408.08803) | [code](https://github.com/abdalimran/FR-KAN-Text-Classification) | ![Github stars](https://img.shields.io/github/stars/abdalimran/FR-KAN-Text-Classification.svg)
+- [AF-KAN: Activation Function-Based Kolmogorov-Arnold Networks for Efficient Representation Learning](https://arxiv.org/abs/2503.06112) | [code](https://github.com/hoangthangta/All-KAN) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/All-KAN.svg) - expand ReLU-KAN with various activations and their function combinations
+- [MatrixKAN: Parallelized Kolmogorov-Arnold Network](https://arxiv.org/abs/2502.07176) : MatrixKAN is a novel KAN optimization that parallelizes B-spline calculations with matrix representation and operations, thus significantly improving effective computation time for models utilizing high-degree B-splines. This paper demonstrates the superior scaling of MatrixKAN's computation time relative to B-spline degree and speedups of approximately 40x relative to KAN, with significant additional speedup potential for larger datasets or higher spline degrees. | [code](https://github.com/OSU-STARLAB/MatrixKAN) | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg) 
+- [CVKAN: Complex-Valued Kolmogorov-Arnold Networks](https://arxiv.org/abs/2502.02417) | [code](https://github.com/M-Wolff/CVKAN) | ![Github stars](https://img.shields.io/github/stars/M-Wolff/CVKAN.svg) - Transferred KANs into the complex-valued domain using Radial Basis Functions and added tools for improved Plotting and Interpretability
 
 ### Theorem
 
@@ -138,6 +143,9 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [KAN-SGAN](https://github.com/hoangthangta/KAN-SGAN/): Semi-supervised learning with Generative Adversarial Networks (GANs) using Kolmogorov-Arnold Network Layers (KANLs) | ![Github stars](https://img.shields.io/github/stars/hoangthangta/KAN-SGAN.svg)
 - [HiPPO-KAN: Efficient KAN Model for Time Series Analysis](https://arxiv.org/abs/2410.14939)
 - [OIKAN](https://github.com/silvermete0r/oikan): Neuro-Symbolic ML for Scientific Discovery (not a direct implementation of KANs but a KART-inspired alternative to make more efficient and accurate Neuro-Symbolic ML) | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
+- [timeKAN](https://github.com/SamerMakni/timekan):  Kolmogorov-Arnold Networks with recurrent architectures | ![Github stars](https://img.shields.io/github/stars/SamerMakni/timekan)
+- [MatrixKAN](https://github.com/OSU-STARLAB/MatrixKAN): MatrixKAN: An optimized B-spline-based KAN implementation with superior effective computation time for higher spline degrees and larger datasets | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg)
+
 
 ### Library-based
 
