@@ -95,6 +95,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [A Survey on Kolmogorov-Arnold Network](https://arxiv.org/abs/2411.06078)
 - [Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks](https://arxiv.org/abs/2502.06153)
 - [Kolmogorov-Arnold Fourier Networks](https://arxiv.org/abs/2502.06018)
+- [CVKAN: Complex-Valued Kolmogorov-Arnold Networks](https://arxiv.org/abs/2502.02417) | [code](https://github.com/M-Wolff/CVKAN) | ![Github stars](https://img.shields.io/github/stars/M-Wolff/CVKAN.svg) - Transferred KANs into the complex-valued domain using Radial Basis Functions and added tools for improved Plotting and Interpretability
 
 ### Theorem
 
