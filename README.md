@@ -103,6 +103,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [CVKAN: Complex-Valued Kolmogorov-Arnold Networks](https://arxiv.org/abs/2502.02417) | [code](https://github.com/M-Wolff/CVKAN) | ![Github stars](https://img.shields.io/github/stars/M-Wolff/CVKAN.svg) - Transferred KANs into the complex-valued domain using Radial Basis Functions and added tools for improved Plotting and Interpretability
 - [DAREK - Distance Aware Error for Kolmogorov Networks](https://ieeexplore.ieee.org/document/10888425) | [page](https://masoud-ataei.github.io/DAREK/) - DAREK introduce distance aware worst case error bounds for Kolmogorov-Arnold Networks. 
 
+- [MetaKAN: Improving Memory Efficiency for Training KANs via Meta Learning](https://arxiv.org/pdf/2506.07549) | [code](https://github.com/Murphyzc/MetaKAN) | ![Github stars](https://img.shields.io/github/stars/Murphyzc/MetaKAN) -  MetaKAN provides an alternative technique for training KANs, that allows for greater scalability and extensibility, and narrows the training cost gap with MLPs stated in the original paper of KANs.
+
 ### Theorem
 
 - 1957-[On the representation of continuous functions of several variables by superpositions of continuous functions of a smaller number of variables](https://cs.uwaterloo.ca/~y328yu/classics/Kolmogorov57.pdf) : The original Kolmogorov Arnold paper
