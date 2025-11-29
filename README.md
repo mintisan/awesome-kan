@@ -150,6 +150,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [OIKAN](https://github.com/silvermete0r/oikan): Neuro-Symbolic ML for Scientific Discovery (not a direct implementation of KANs but a KART-inspired alternative to make more efficient and accurate Neuro-Symbolic ML) | ![Github stars](https://img.shields.io/github/stars/silvermete0r/oikan.svg)
 - [timeKAN](https://github.com/SamerMakni/timekan):  Kolmogorov-Arnold Networks with recurrent architectures | ![Github stars](https://img.shields.io/github/stars/SamerMakni/timekan)
 - [MatrixKAN](https://github.com/OSU-STARLAB/MatrixKAN): MatrixKAN: An optimized B-spline-based KAN implementation with superior effective computation time for higher spline degrees and larger datasets | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg)
+- [KANditioned](https://github.com/catswe/KANditioned): KANditioned: Fast, Conditioned Training of Kolmogorov-Arnold Networks (KANs) via Dynamic Sparse Matrix Multiplication | ![Github stars](https://img.shields.io/github/stars/catswe/KANditioned.svg)
 
 
 ### Library-based
