@@ -215,7 +215,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [OpenKAN](http://openkan.org/)
 - [KAN-DQN](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird) : An experiment where KAN replaces MLP in Deep Q-Network to play Flappy Bird as a Reinforcement Learning agent. | ![GitHub Repo stars](https://img.shields.io/github/stars/andythetechnerd03/KAN-It-Play-Flappy-Bird)
 - [Neuromancer](https://github.com/pnnl/neuromancer) : Neural Modules with Adaptive Nonlinear Constraints and Efficient Regularizations (NeuroMANCER) is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems, physics-informed system identification, and parametric model-based optimal control. It includes, among other architectures, KANs and finite basis KANs (FBKANs). | ![Github stars](https://img.shields.io/github/stars/pnnl/neuromancer.svg)
-
+- [Parametric reconstruction of 3D object with KAN](https://github.com/antoniogrs/kan_parametric_reconstruction) : Code for training a hybrid KAN-based neural network to reconstruct parametric 3D objects from single images through regression. The project includes a qualitative comparison with MLPs, highlighting the superior expressive power of KANs in initial tests. | ![Github stars](https://img.shields.io/github/stars/antoniogrs/kan_parametric_reconstruction.svg)
 
 ## Discussion
 
