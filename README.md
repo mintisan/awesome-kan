@@ -224,6 +224,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 ## Discussion
 
+- [Is KAN more interpretable than MLP? A comparative study on image and text data](https://link.springer.com/chapter/10.1007/978-981-96-7945-4_10) : This study demonstrats that KAN is less interpretable, more expensive and less stable than MLP, mainly when handling high-dimensional data, such as image and text data.
 - HN-[KAN Hacker news discussion](https://news.ycombinator.com/item?id=40219205)
 - HN-[	A new type of neural network is more interpretable](https://news.ycombinator.com/item?id=41162676)
 - HN-[Trying Kolmogorov-Arnold Networks in Practice](https://news.ycombinator.com/item?id=40855028)
