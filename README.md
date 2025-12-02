@@ -174,6 +174,10 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
  - [CNN-KAN](https://github.com/jakariaemon/CNN-KAN) : A modified CNN architecture using Kolmogorov-Arnold Networks | ![Github stars](https://img.shields.io/github/stars/jakariaemon/CNN-KAN.svg)
  - [ConvKAN3D](https://github.com/FirasBDarwish/ConvKAN3D) : 3D Convolutional Layer built on top of the efficient-kan implementation (importable Python package from PyPi), drop-in replacement of Conv3d.
 
+## Unsupervised KANs
+
+- [KAN-Clustering](https://github.com/jay-gatz/KAN-Clustering) : Kolmogorov-Arnold Networks (KAN) Clustering ｜ ![Github stars](https://img.shields.io/github/stars/jay-gatz/KAN-Clustering.svg)
+
 ### Benchmark
 
 - [KAN-benchmarking](https://github.com/Jerry-Master/KAN-benchmarking) : Benchmark for efficiency in memory and time of different KAN implementations. | ![Github stars](https://img.shields.io/github/stars/Jerry-Master/KAN-benchmarking.svg)
