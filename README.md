@@ -154,6 +154,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TorchCurves](https://github.com/alexshtf/torchcurves): A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
 - [LinearKAN](https://github.com/catswe/LinearKAN): LinearKAN: A very fast implementation of Kolmogorov-Arnold Networks via Dynamic Input-Indexed Matrix Multiplication | ![Github stars](https://img.shields.io/github/stars/catswe/LinearKAN.svg)
 
+
 ### Library-based
 
 - [TorchKAN](https://github.com/1ssb/torchkan) : Simplified KAN Model Using Legendre approximations and Monomial basis functions for Image Classification for MNIST. Achieves 99.5% on MNIST using Conv+LegendreKAN.   ｜ ![Github stars](https://img.shields.io/github/stars/1ssb/torchkan.svg)
