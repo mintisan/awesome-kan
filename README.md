@@ -152,6 +152,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [timeKAN](https://github.com/SamerMakni/timekan):  Kolmogorov-Arnold Networks with recurrent architectures | ![Github stars](https://img.shields.io/github/stars/SamerMakni/timekan)
 - [MatrixKAN](https://github.com/OSU-STARLAB/MatrixKAN): MatrixKAN: An optimized B-spline-based KAN implementation with superior effective computation time for higher spline degrees and larger datasets | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg)
 - [TorchCurves](https://github.com/alexshtf/torchcurves): A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
+- [LinearKAN](https://github.com/catswe/LinearKAN): LinearKAN: A very fast implementation of Kolmogorov-Arnold Networks via Dynamic Input-Indexed Matrix Multiplication | ![Github stars](https://img.shields.io/github/stars/catswe/LinearKAN.svg)
 
 
 ### Library-based
