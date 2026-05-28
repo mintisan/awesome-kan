@@ -106,6 +106,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [MetaKAN: Improving Memory Efficiency for Training KANs via Meta Learning](https://arxiv.org/pdf/2506.07549) | [code](https://github.com/Murphyzc/MetaKAN) | ![Github stars](https://img.shields.io/github/stars/Murphyzc/MetaKAN) -  MetaKAN provides an alternative technique for training KANs, that allows for greater scalability and extensibility, and narrows the training cost gap with MLPs stated in the original paper of KANs.
 - [Bridging KAN and MLP: MJKAN, a Hybrid Architecture with Both Efficiency and Expressiveness](https://doi.org/10.1016/j.icte.2025.11.010) | [code](https://github.com/jmj2316/MJKAN) | ![Github stars](https://img.shields.io/github/stars/jmj2316/MJKAN.svg) - A novel hybrid KAN-MLP layer integrating FiLM modulation with RBF activations for superior function approximation and improved computational efficiency.
 - [HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection](http://doi.org/10.5220/0014627000004067) | [code](https://github.com/aristotelisxs/hkan-logad) | ![Github stars](https://img.shields.io/github/stars/aristotelisxs/hkan-logad) - An extension of HKAN, tailored to large-scale software-intensive systems log anomaly detection, yielding substantial gains in performance and controllability.
+- [Enhancing Off-Policy Method SAC with KAN for Continuous Reinforcement Learning](https://doi.org/10.1007/978-3-032-04339-9_15)  [code](https://github.com/alibayeh/SAC-KAN) | ![Github stars](https://img.shields.io/github/stars/alibayeh/SAC-KAN) - Implementation of SAC-KAN algorithm on mujoco environments，such as Hopper-v5, Halfcheeth-v5, Swimmer-v5.
+- [TruKAN: Kolmogorov-Arnold Networks Using Truncated Power Functions](https://doi.org/10.48550/arXiv.2602.03879) | [code](https://github.com/alibayeh/trukan) | ![Github stars](https://img.shields.io/github/stars/alibayeh/trukan) - A novel and efficient variation of KANs based on truncated power functions (derived from k-order spline theory), offering better interpretability and strong performance on real-world tasks.
 
 ### Theorem
 
@@ -154,6 +156,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [MatrixKAN](https://github.com/OSU-STARLAB/MatrixKAN): MatrixKAN: An optimized B-spline-based KAN implementation with superior effective computation time for higher spline degrees and larger datasets | ![Github stars](https://img.shields.io/github/stars/OSU-STARLAB/MatrixKAN.svg)
 - [TorchCurves](https://github.com/alexshtf/torchcurves): A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
 - [LinearKAN](https://github.com/catswe/LinearKAN): LinearKAN: A very fast implementation of Kolmogorov-Arnold Networks via Dynamic Input-Indexed Matrix Multiplication | ![Github stars](https://img.shields.io/github/stars/catswe/LinearKAN.svg)
+- [TruKAN](https://github.com/alibayeh/trukan): TruKAN: An efficient implementation of KANs with generic plotting and pruning functionalities that can be used to visualize any KAN model. | ![Github stars](https://img.shields.io/github/stars/alibayeh/trukan)
 
 
 ### Library-based
