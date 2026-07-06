@@ -108,6 +108,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [HKAN-LogAD: Hierarchical Kolmogorov-Arnold Networks for Log Anomaly Detection](http://doi.org/10.5220/0014627000004067) | [code](https://github.com/aristotelisxs/hkan-logad) | ![Github stars](https://img.shields.io/github/stars/aristotelisxs/hkan-logad) - An extension of HKAN, tailored to large-scale software-intensive systems log anomaly detection, yielding substantial gains in performance and controllability.
 - [Enhancing Off-Policy Method SAC with KAN for Continuous Reinforcement Learning](https://doi.org/10.1007/978-3-032-04339-9_15)  [code](https://github.com/alibayeh/SAC-KAN) | ![Github stars](https://img.shields.io/github/stars/alibayeh/SAC-KAN) - Implementation of SAC-KAN algorithm on mujoco environments，such as Hopper-v5, Halfcheeth-v5, Swimmer-v5.
 - [TruKAN: Kolmogorov-Arnold Networks Using Truncated Power Functions](https://doi.org/10.48550/arXiv.2602.03879) | [code](https://github.com/alibayeh/trukan) | ![Github stars](https://img.shields.io/github/stars/alibayeh/trukan) - A novel and efficient variation of KANs based on truncated power functions (derived from k-order spline theory), offering better interpretability and strong performance on real-world tasks.
+- [Kolmogorov-Arnold Networks for Dynamics](https://arxiv.org/abs/2602.20413) Kolmogorov-Arnold Networks for Dynamics to estimate governing equations of dynamical systems. [code](https://github.com/Center-For-Complex-Systems-Science/kandy)
 
 ### Theorem
 
