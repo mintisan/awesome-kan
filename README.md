@@ -111,6 +111,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Double-KANs: Enhancing KANs with simplified NURBS for accurate modeling of discontinuous signals](https://doi.org/10.1016/j.neucom.2026.133895) | [code](https://github.com/baboonaaaa/Double-KANs) ![Github stars](https://img.shields.io/github/stars/baboonaaaa/Double-KANs) - This paper introduces NURBS into KANs to enhance their capability in approximating abrupt signals while maintaining full compatibility with existing KAN-based architectures for seamless integration.Experiments across multiple tasks demonstrate that the proposed method consistently outperforms MLPs, vanilla KANs, and their variants.
 - [Kolmogorov-Arnold Networks for Dynamics](https://arxiv.org/abs/2602.20413) Kolmogorov-Arnold Networks for Dynamics to estimate governing equations of dynamical systems. [code](https://github.com/Center-For-Complex-Systems-Science/kandy)
 - [MexiKAN: Mexican Hat wavelet-enhanced KANs for fine-grained signal modeling](https://doi.org/10.1007/s11760-026-05580-3) | [code](https://github.com/baboonaaaa/MexiKAN) ![Github stars](https://img.shields.io/github/stars/baboonaaaa/MexiKAN) - This paper proposes a novel KAN variant that integrates the Mexican Hat wavelet into the activation design. The hat-shaped profile of the Mexican Hat wavelet accurately modeling local discontinuities and impulsive patterns, while its spectral energy concentration in the mid-to-low frequency range effectively suppresses high-frequency noise.
+- [KANLib - A Modular, Extensible and Fast Kolmogorov-Arnold Network Implementation](https://arxiv.org/abs/2606.17927) | [code](https://github.com/julianhoever/KANLib) | ![Github stars](https://img.shields.io/github/stars/julianhoever/KANLib)
+
 
 ### Theorem
 
@@ -161,6 +163,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [TorchCurves](https://github.com/alexshtf/torchcurves): A differentiable parametric curves PyTorch library, with both B-Splines and Legendre Polynomials, that allows to easily build KAN layers. | ![Github stars](https://img.shields.io/github/stars/alexshtf/torchcurves.svg)
 - [LinearKAN](https://github.com/catswe/LinearKAN): LinearKAN: A very fast implementation of Kolmogorov-Arnold Networks via Dynamic Input-Indexed Matrix Multiplication | ![Github stars](https://img.shields.io/github/stars/catswe/LinearKAN.svg)
 - [TruKAN](https://github.com/alibayeh/trukan): TruKAN: An efficient implementation of KANs with generic plotting and pruning functionalities that can be used to visualize any KAN model. | ![Github stars](https://img.shields.io/github/stars/alibayeh/trukan)
+- [KANLib](https://github.com/julianhoever/KANLib): A modular, extensible and fast Kolmogorov-Arnold Network implementation. | ![Github stars](https://img.shields.io/github/stars/julianhoever/KANLib)
 
 
 ### Library-based
