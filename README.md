@@ -305,4 +305,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mintisan/awesome-kan)](https://star-history.com/#mintisan/awesome-kan&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=mintisan/awesome-kan)](https://star-history.dera.page/#mintisan/awesome-kan&Date)
