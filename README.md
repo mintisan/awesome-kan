@@ -209,7 +209,8 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 
 - [high-order-layers-torch](https://github.com/jloveric/high-order-layers-torch) : High order piecewise polynomial neural networks using Chebyshev polynomials at Gauss Lobatto nodes (lagrange polynomials). Includes convolutional layers as well HP refinement for non convolutional layers, linear initialization and various applications in the linked repos with varrying levels of success. Euler equations of fluid dynamics, nlp, implicit representation and more | ![Github stars](https://img.shields.io/github/stars/jloveric/high-order-layers-torch.svg)
 - [Training based on Kaczmarz, not Broyden method](http://openkan.org/) : The training process is independent of the basis functions, the provided link shows alternative to Broyden method originally suggested in MIT paper. It outperforms MLP siginificantly, benchmarks provided. 
-
+- [TorchSONN](https://github.com/kvoyager/torchsonn) : Self-organizing (GMDH) polynomial, orthogonal, and RBF networks in PyTorch; a compositional alternative to KAN that grows its own structure from data. 
+  
 ## Project
 
 - [KAN-GPT](https://github.com/AdityaNG/kan-gpt) : The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling ｜ ![Github stars](https://img.shields.io/github/stars/AdityaNG/kan-gpt.svg)
