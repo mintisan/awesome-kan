@@ -112,6 +112,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Kolmogorov-Arnold Networks for Dynamics](https://arxiv.org/abs/2602.20413) Kolmogorov-Arnold Networks for Dynamics to estimate governing equations of dynamical systems. [code](https://github.com/Center-For-Complex-Systems-Science/kandy)
 - [MexiKAN: Mexican Hat wavelet-enhanced KANs for fine-grained signal modeling](https://doi.org/10.1007/s11760-026-05580-3) | [code](https://github.com/baboonaaaa/MexiKAN) ![Github stars](https://img.shields.io/github/stars/baboonaaaa/MexiKAN) - This paper proposes a novel KAN variant that integrates the Mexican Hat wavelet into the activation design. The hat-shaped profile of the Mexican Hat wavelet accurately modeling local discontinuities and impulsive patterns, while its spectral energy concentration in the mid-to-low frequency range effectively suppresses high-frequency noise.
 - [KANLib - A Modular, Extensible and Fast Kolmogorov-Arnold Network Implementation](https://arxiv.org/abs/2606.17927) | [code](https://github.com/julianhoever/KANLib) | ![Github stars](https://img.shields.io/github/stars/julianhoever/KANLib)
+- [KANLab: TensorFlow Playground for Kolmogorov-Arnold Networks](https://arxiv.org/abs/2610.20117) | [code](https://github.com/lniehaus/kanlab) | [demo](https://kanlab.app/) | ![Github stars](https://img.shields.io/github/stars/lniehaus/kanlab.svg) - An interactive, browser-based visualization of KANs built on Deep Playground (TensorFlow Playground), for training small KANs and exploring their learnable activation functions in real time.
 
 
 ### Theorem
@@ -267,6 +268,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Why is the (KAN) Kolmogorov-Arnold Networks so promising](https://engyasin.github.io/posts/why-the-new-kolmogorov-arnold-networks-so-promising/)
 - [Demystifying Kolmogorov-Arnold Networks: A Beginner-Friendly Guide with Code](https://daniel-bethell.co.uk/posts/kan/)
 - [KANvas](https://kanvas.deepverse.tech/#/kan) : Provide quick & intuitive interaction for people to try KAN
+- [KANLab](https://kanlab.app/) : Interactive in-browser playground for training and visualizing KANs, based on TensorFlow Playground | [code](https://github.com/lniehaus/kanlab) ｜ ![Github stars](https://img.shields.io/github/stars/lniehaus/kanlab.svg)
 - [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/): Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
 - [KAN-Continual_Learning_tests](https://github.com/MrPio/KAN-Continual_Learning_tests) : Collection of tests performed during the study of the new Kolmogorov-Arnold Neural Networks (KAN) ｜ ![Github stars](https://img.shields.io/github/stars/MrPio/KAN-Continual_Learning_tests.svg)
 - [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
